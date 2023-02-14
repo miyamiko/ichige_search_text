@@ -23,7 +23,7 @@ def and_search(list_of_strings, search_terms):
 st.title('イチゲブログ内検索')
 st.caption('イチゲブログ内を検索できます。htmlでも検索可能。近くの見出しへジャンプすることもできます。事前にJupiterNotebookでブログをスクレーピングし、すべての記事をpandasからcsvへ変換して保存。そのcsvをpandasに戻し検索しています。')
 st.markdown('###### 詳細は')
-link = '[イチゲブログ](https://kikuichige.com/17288/)'
+link = '[イチゲブログ](https://kikuichige.com/17869/)'
 st.markdown(link, unsafe_allow_html=True)
 
 #csvをデータフレームで開く
@@ -35,7 +35,7 @@ with st.form(key='search_form'):
     zokusei=st.selectbox(
         'id="セレクトした文字列が含まれるところへのリンクを抽出します。全部表示したい場合、全部を選んでください。',
         ('toc','全部'))
-    st.markdown('###### 検索ワード')
+    st.markdown('###### 検索ワード- :red[ 表示ボタンが出るまでお待ちください。（数分かかる場合もあります）]')
     #st.text_inputの第一引数-ラベル、第二引数-初期値
     keyword=st.text_input('検索したいワード（半角で複数キーワードを書いてAND検索もできます。例python Django　全てのキーワードが含まれているページから第一引数で検索します。完全一致なので半角、全角は区別されます）')
     keywords=keyword.split(' ')
