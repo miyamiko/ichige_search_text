@@ -20,7 +20,7 @@ def find_indices(string, sub_string):
 #1今回、list_of_stringsを1要素のリスト[1個の記事だけ]で使えば、ある記事にsearch_termsが全て含まれているかの判定ができる
 def and_search(list_of_strings, search_terms):
     return [s for s in list_of_strings if all(term in s for term in search_terms)]
-st.title('イチゲブログの検索')
+st.title('イチゲブログ内検索')
 st.caption('イチゲブログ内を検索できます。htmlでも検索可能。近くの見出しへジャンプすることもできます。事前にJupiterNotebookでブログをスクレーピングし、すべての記事をpandasからcsvへ変換して保存。そのcsvをpandasに戻し検索しています。')
 st.markdown('###### 詳細は')
 link = '[イチゲブログ](https://kikuichige.com/17288/)'
@@ -120,7 +120,7 @@ with st.form(key='search_form'):
     if submit_btn:
         st.text(f'モードは{zokusei}')
         result_suu=len(destinations1)
-        st.text(f'検索結果数{str(result_suu+1)}')
+        st.text(f'検索結果数{str(result_suu)}')
         for i in range(result_suu):
             #検索結果、文字列
             sentence = f'{result_sentences1[i]}'
