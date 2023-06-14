@@ -10087,3 +10087,1369 @@ SUPERUSER_EMAIL admin@admin.com（値は自分で決める）
 SUPERUSER_PASSWORD password（値は自分で決める）
 Save Changes
 Manual Deploy→Deploy latest commitまとめ個人的な解釈でDjangoで作ったものを公開することを目的として書いたものです。本格的、運用では改めてご確認ください。目次へこの記事を書いたイチゲを応援するVプリカでのお支払いがおすすめです。MENTAやってます（ichige）DjangoPythonプログラミング広告シェアするTwitterLINEコピー イチゲ　ブログイチゲ　ブログ 関連記事Python Pythonのプログラムをコピペして実行する方法【プログラムしたことない人向け】 インストールなしでPythonが実行できるGoogle Colaboratoryを使えばコピペでPythonのプログラムが簡単に実行できます。右クリックで貼り付けられないときの対策もご紹介します。Web上で動くのでMacでも動きます。注意点...Django 【Django入門】Django REST framework+　Vue　CLIでPOSTでデータ送ってみる Django REST framework + Vue CLIがうまくいかないので次の点を明らかにしたいと思い作りました。REST frameworkにPOSTするだけでデータベースにかきこまれるのか？DjangoとVueCLIがうまくいか... コメントコメントを書き込むコメントをどうぞ コメントをキャンセルメールアドレスが公開されることはありません。 * が付いている欄は必須項目ですコメント ※ 名前 ※ メール ※ サイト  次回のコメントで使用するためブラウザーに自分の名前、メールアドレス、サイトを保存する。 ΔホームプログラミングPythonDjango広告イチゲブログ イチゲイチゲブログ、プログラム、節約術など情報発信していきます。 20/9月からブログ開始/お金を掛けないでWordPressブログ運営を独学でやってます。毎月成績（前月比）更新します。4月実績7340→6617 PV収益アドセンス971→1299円 ASP 3181→319円 「おいしい話には簡単にのらない」「情報に振り回されない」がモットー 最近は独学プログラミングブログになってます。お仕事のご依頼はLancers経由で。イチゲをフォローするイチゲブログの成績 誰もアクセスしていないとサーバーが寝てしまうので起きて表示するまで数分かかる場合があります。イチゲブログのアクセス集計イチゲブログのGoogle Search Console検索データ分析自作ブログ内検索Pythonで作った自作ブログ内検索ツール（立ち上がりに数分かかります。クラッシュしていることもあります。）イチゲブログ内検索カテゴリー100円ショップ5AI5アフィリエイト初心者37WordPressブログ入門（アフィリエイト）2ブログに役立つ無料ツール＆テクニック23独学アフィリエイト収益化への道、お名前ドットコム12お得・節約6ハードロック7メロディアスハードロック7パソコン16ソフト11ハード5プログラミング53Python40Django24Streamlit3Vue2健康2副業3Lancers2家電23スマフォ5テレビ2冷蔵庫2掃除機1洗濯機10映画5時事ネタ3未分類1株2葬儀3観光1最近の投稿RenderのQuickstarts/DjangoをWindows11でやってみる2023年5月5日あやめの特徴量をBingとChatGPTに入れてみた。【分離問題】2023年4月17日Bingの「チャット」「作成」「Image Creator」の感想とおすすめの使い方！2023年4月12日【初心者向け】PythonでWindowsの操作を自動化!何でも使える方法【PyAutoGui】【Pandas】2023年2月17日広告イチゲ　ブログHOMEプロフィールお問い合わせプライバシーポリシー© 2020 イチゲ　ブログ.メニュー□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！ホーム検索トップサイドバータイトルとURLをコピーしました"
+159,https://kikuichige.com/19355/,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【初心者向け】Google Bardでプログラミングできるのか？「ずんだもんの声がするボタンをつくる」 | イチゲ　ブログイチゲ　ブログ□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！【初心者向け】Google Bardでプログラミングできるのか？「ずんだもんの声がするボタンをつくる」2023.05.252023.05.12 この記事は約12分で読めます。広告Google Bardで日本語が使えるようになったので使ってみた。実践的なプログラムをBardに聞きながら作りました。BingやChatGptでも同じことができます。ボタンを押したらVoiceBoxのずんだもんの声が再生されるプログラムを作ります。Windowsのメモ帳と無料で使えるGoogle Colaboratoryを使うので初心者でも実践できます。完成品　完成品２（Bardに聞きながら修正したバージョン）【初心者向け】Google　Bardでプログラミングできるのか２？「キッチンタイマーを作る」Google Bardに聞きながらキッチンタイマーを作ってみました。ChatGptやBingでも同じようにできます。結局AIに1から聞いて作ると行き詰ります。その様子と作り上げるためにしたことをご紹介します。同じ質問をしてもAIは異なるコー...kikuichige.com2023.05.23↓こちらはずんだもんを利用したアプリの記事ですDjangoでデータベースSQLite3にmp3を保存してみた文字列などをSQLite3に保存するとdb.sqliteファイルに保存される。mp3も同じようにdb.sqliteに保存されるのか？と予想していましたが。mp3を実際に保存してみるとmanage.pyが置いてあるルートのディレクトリにmp3...kikuichige.com2023.05.20目次作るものWeb ページを作る（HTML+JavaScript）コツずんだもんの声を取得（Python）VoiceBoxの説明質問と回答実行あとがき広告作るものボタンを押すとずんだもんの声が再生されるWeb ページを作る。ずんだもんの声はVoiceBoxをパソコンへインストールするのではなくWEB版VOICEVOX API（低速）を利用させていただきPythonで任意のずんだもんの声のmp3をダウンロードするプログラムを作ります。Web ページを作る（HTML+JavaScript）まずWeb ページから。質問：次のプログラムを1つのHtmlで作って 1-タイトルは「Bardに聞いて作ってみた」 2-javascriptでボタンを押したらmp3を再生する 3-ボタンの名前は「ずんだもんがしゃべります！」 4-「VOICEVOX:ずんだもん」という文字にVOICEVOXへのリンクを付けてBardの答え：<!DOCTYPE html>
+<html>
+<head>
+<title>Bardに聞いて作ってみた</title>
+</head>
+<body>
+<button id=""play"">ずんだもんがしゃべります！</button>
+<script>
+var audio = new Audio(""https://voicevox.net/sound/play/24214.mp3"");
+
+document.getElementById(""play"").addEventListener(""click"", function() {
+  audio.play();
+});
+</script>
+<a href=""https://voicevox.net/character/24214"">VOICEVOX:ずんだもん</a>
+</body>
+</html>実行すると文字化けするので追加で聞いてみます。質問：実行すると文字化けしますBardの答え：申し訳ありません。文字化けを防ぐために、HTMLファイルの文字コードをUTF-8に設定してください。また、HTMLファイルのmetaタグにcharset属性を追加して、文字コードを指定してください。HTMLファイルの文字コードをUTF-8に設定するには、次の手順に従ってください。テキストエディタでHTMLファイルを開きます。<head>タグの直下に、次のmetaタグを追加します。<meta charset=""UTF-8"">修正点
+1，文字化けするので再回答通り<meta charset=""UTF-8"">追加
+<head>
+<meta charset=""UTF-8"">
+<title>Bardに聞いて作ってみた</title>
+</head>
+
+2，リンクは間違っていた。適当なリンクなので修正する必要がある。
+https://voicevox.net/sound/play/24214.mp3→zunda.mp3
+ｈttps://voicevox.net/character/24214→https://voicevox.hiroshiba.jp/
+ずんだもんの利用規約に「「VOICEVOX:ずんだもん」とクレジットを記載」とあるので、リンク付きで入れてます。メモ帳に名前を付けて保存→「ファイルの種類」をテキスト文章ではなく、すべてのファイルに変更（ここが大事です）→ファイル名をindex.html→保存→保存したindex.htmlをダブルクリックかブラウザにドラッグアンドドロップすると実行できます。zunda.mp3はまだないので音はしません。完成品はこちらを使って公開してます。無料レンタルサーバーの使い方【初心者向け】プログラミングしたものをサーバーにアップロードする方法プログラミング勉強し始めてHTML、CSS、JavaScript、PHPで作ったものを実際にネットにのせて試したくはないですか？開発環境内だけで動作させても実際はどんな感じになるのか？サーバーにアップロードしてみましょう。無料でできます。勉...kikuichige.com2021.07.19コツもっと格好良くしよと思っていろいろ聞いて作りました。↓↓いろいろ修正したバージョン（過程は省略）下記質問で、デザインや機能を追加しました。質問：次のプログラムを1つのHtmlで作って1-タイトルは「Bardに聞いて作ってみた」2-本文にもタイトルを表示3-javascriptでボタンを押したらmp3を再生して画像と文字を表示する4-ボタンの名前は「ずんだもんがしゃべります！」5-「VOICEVOX:ずんだもん」という文字にVOICEVOXへのリンクを付けて6-全体のデザインをcssでかわいくするしかし答えてきたものでは、うまくいかないので大幅に変更しました。最終版zunda3.html<!DOCTYPE html>
+<html>
+<head>
+<meta charset=""UTF-8"">
+<title>Bardに聞いて作ってみた２</title>
+<script src=""https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js""></script>
+<link rel=""stylesheet"" href=""style.css"">
+</head>
+<body>
+<h1>Bardに聞いて作ってみた２</h1>
+<a href=""https://voicevox.hiroshiba.jp/"">VOICEVOX:ずんだもん</a>
+<div id=""container"">
+<button id=""button"">ずんだもんがしゃべります！</button>
+<img id=""image"" src=""pet_tehe_cat.png"" alt=""ずんだもん"" style=""display: none;"">
+<p id=""text"" style=""display: none;""><b>ずんだもんじゃないのかい！</b><br>（いらすとやさんの無料素材を使わしていただきました。）</p>
+
+</div>
+<script>
+document.getElementById(""button"").addEventListener(""click"", function() {
+var audio = new Audio(""bard_ask.mp3"");
+audio.play();
+document.getElementById(""image"").style.display = ""block"";
+document.getElementById(""text"").style.display = ""block"";
+});
+</script>
+</body>
+</html>style.cssbody {
+background-color: lightpink;
+}
+
+h1 {
+color: darkred;
+}
+
+#container {
+width: 400px;
+margin: 0 auto;
+padding: 20px;
+border: 1px solid black;
+}
+
+button {
+background-color: lightgreen;
+color: darkred;
+font-size: 16px;
+}
+
+img {
+width: 200px;
+display: none;
+}
+
+p {
+font-size: 14px;
+display: none;
+}一筋縄ではいきませんが、コツは最小部分に分けて実験と質問を繰り返しながら作り込んでいくことです。例えば、一気に機能をつけるのではなく画像だけ表示するように質問する。質問：javascriptでボタンを押したら画像を表示する方法は。答えのコードを実験してうまくいったら元のコードに追加、修正していく感じです。また、コードを実行してうまくいかなかったときやエラーが発生したときエラーコードを貼って、「こういうエラーが出た」といって質問してもいいですが、1回目の回答で正しい答えが返ってこなかった場合。別の切り口で質問したほうがいいです。何度も「こういうエラーが出た」と質問攻めしても、それらしい言い訳とともにもっともらしい答えが返ってきますが、経験上2回目以降で正しい答えが返ってきたことはないです。目次へずんだもんの声を取得（Python）VoiceBoxの説明WEB版VOICEVOX API（低速）を利用させていただきます。簡単に使える。使い方URL（例）にあるリンクをクリックすると下のように音声が再生されるのではなくコードがでます。https://api.tts.quest/v1/voicevox/?text=読み上げる文&speaker=1{
+    ""success"": true,
+    ""host"": ""audio1.tts.quest"",
+    ""audioId"": ""5078da53cfc3444040a59a919e92853db0bd5e26b60c5e89c352d0a9933511e9"",
+    ""audioStatusUrl"": ""https:\/\/audio1.tts.quest\/v1\/download\/5078da53cfc3444040a59a919e92853db0bd5e26b60c5e89c352d0a9933511e9.json"",
+    ""wavDownloadUrl"": ""https:\/\/audio1.tts.quest\/v1\/download\/5078da53cfc3444040a59a919e92853db0bd5e26b60c5e89c352d0a9933511e9.wav"",
+    ""mp3DownloadUrl"": ""https:\/\/audio1.tts.quest\/v1\/download\/5078da53cfc3444040a59a919e92853db0bd5e26b60c5e89c352d0a9933511e9.mp3"",
+    ""canTakeUpTo"": 4
+}必要なのは赤色のmp3ファイルのリンク部分。ちなみにこの赤い部分をブラウザアドレスバーに貼ってリンク先にいくと「読み上げる文」とずんだもんの声が再生されます。（いつまでリンクが生きているかは不明）下のコード実行しないでも設定からmp3のダウンロードはできますので、zunda.mp3と名前を変えて上のindex.htmlと同じフォルダにおいても完成できます。pythonでこのリンクを取り出すために必要な処理は2つ。この2点をBardに聞いてプログラミングしていきます。「読み上げる文」など日本語が入ったurlをプログラミングで使うとき文字化けみたいになるのを直す。（日本語を含んだurlをメモ帳に貼ると、この様子が確認できます。）レスポンスから必要なmp3のリンクを取り出す。【Python】日本語のURL表示がおかしいときの対策【URLエンコード】日本語を含んだURLをメモ帳などに貼り付けてもわかりますが日本語の部分が％〇～に変換されてます。原因はURLエンコード されているからです。URLエンコード（パーセントエンコーディング） とは何かの解説とPythonで日本語表示に直すやり方...kikuichige.com2022.01.15質問と回答質問：urlの中で’読み上げる文’が‘%E8%AA%AD%E3%81%BF%E4%B8%8A%E3%81%92%E3%82%8B%E6%96%87’と表示されますなぜですか。Bardの答え：その理由は、url は utf-8 をサポートしていないためです。 url でテキストを使用するには、utf-8 でエンコードする必要があります。質問：pythonでそのコードを書いてBardの答え：import urllib.parse
+def url_encode(text):
+    return urllib.parse.quote(text.encode(""utf-8""))
+text = ""読み上げる文""
+encoded_text = url_encode(text)
+print(encoded_text)質問：上で作ったencoded_textを以下の2つの間に入れてurlを作るコードは‘https://api.tts.quest/v1/voicevox/?text=’‘&speaker=1’Bardの答え：import requests
+import urllib.parse
+url = ""https://api.tts.quest/v1/voicevox/?text=""
+text = ""読み上げる文""
+encoded_text = urllib.parse.quote(text.encode(""utf-8""))
+full_url = url + encoded_text + ""&speaker=1""
+print(full_url)質問：次のPythonコードを教えて 1-urlにアクセスしてレスポンスを受け取る 2-レスポンスからkey:mp3DownloadUrlのvalueを取り出すBardの答え：import requests
+url = ""https://voicevox.net/sound/play/24214.mp3""
+response = requests.get(url)
+mp3_download_url = response.json()[""mp3DownloadUrl""]
+print(mp3_download_url)以上を組み合わせて作ったコード。ずんだもんに言ってもらう言葉はtext＝に書くようにしてます。import requests
+import urllib.parse
+url = ""https://api.tts.quest/v1/voicevox/?text=""
+text = ""お疲れ様です。ずんだもんです""
+encoded_text = urllib.parse.quote(text.encode(""utf-8""))
+full_url = url + encoded_text + ""&speaker=1""
+response = requests.get(full_url)
+mp3_download_url = response.json()[""mp3DownloadUrl""]
+print(mp3_download_url)実行上のコードを無料で使えるGoogle Colaboratoryに張り付けて実行します。張り付け方は下の記事を参照。Bardからも回答の下にある「回答をエクスポート」→「colabにエクスポートする」でGoogle Colaboratoryにコードがコピペされ実行できます。Pythonのプログラムをコピペして実行する方法【プログラムしたことない人向け】インストールなしでPythonが実行できるGoogle Colaboratoryを使えばコピペでPythonのプログラムが簡単に実行できます。右クリックで貼り付けられないときの対策もご紹介します。Web上で動くのでMacでも動きます。注意点...kikuichige.com2022.01.07実行すると赤のリンクをクリックすると音声が再生されます。エラーが出たら、もう1回クリックしてください。赤の設定をクリックするとダウンロードできます。zunda.mp3に名前を変更して上で作ったindex.htmlと同じフォルダに保存すれば完成です。目次へあとがきChatGptやBingと同じくらいのレベルでプログラミングに使える。差は感じられませんでした。自信満々で間違ったコード教えてくるところとか😂今回もいいところだけ載せていますが、結構、はめられました。AIを使ってプログラミングといっても基本的なプログラミングの勉強が必須なのは今後も変わらないと思います。というのもAIの力を最大限に発揮させるのに重要な要素は質問文の質だと思います。AIが答えやすい質問を作るには答えが、ある程度予想できないと作れないはずです。イチゲをOFUSEで応援する(御質問でもOKです）Vプリカでのお支払いがおすすめです。MENTAやってます（ichige）【価格.comの見方】7万円以下（モニター別売り含む）でWindows11パソコン買いました!パソコン何買っていいか探すの大変です。私なりのパソコンの選び方と実際に購入したパソコンのレビューになります。低価格重視ですが、今まで使っていた低価格パソコンの限界がきたため、その辺のはなしも絡めてご紹介したいと思います。具体的には価格.co...kikuichige.com2022.10.24【Python入門】ChatGPTを利用して本当に簡単にプログラミングできるの？ChatGPTを使うとPythonでプログラミングするときに役立ちます。「Chatgptとは」（Chatgptに聞いた答えを書いておきます）ChatGPTは、OpenAIによって訓練された大規模な言語モデルです。このモデルは、自然言語処理タ...kikuichige.com2023.01.27Pythonプログラミング広告シェアするTwitterLINEコピー イチゲ　ブログイチゲ　ブログ 関連記事Python 【Pyscript入門】データ入力してグラフを描画する方法【Matplotlib】 Pyscriptをいろいろ実験したまとめです。Matplotlibで使うデータを入力できるようなサンプルを作りました。XとYとグラフタイプを入力できるようにしています。Pyscriptの欠点として動き始めるまで時間がかかります。下の完成品も...Python Pythonのプログラムをコピペして実行する方法【プログラムしたことない人向け】 インストールなしでPythonが実行できるGoogle Colaboratoryを使えばコピペでPythonのプログラムが簡単に実行できます。右クリックで貼り付けられないときの対策もご紹介します。Web上で動くのでMacでも動きます。注意点... コメントコメントを書き込むコメントをどうぞ コメントをキャンセルメールアドレスが公開されることはありません。 * が付いている欄は必須項目ですコメント ※ 名前 ※ メール ※ サイト  次回のコメントで使用するためブラウザーに自分の名前、メールアドレス、サイトを保存する。 ΔホームプログラミングPython広告イチゲブログ イチゲイチゲブログ、プログラム、節約術など情報発信していきます。 20/9月からブログ開始/お金を掛けないでWordPressブログ運営を独学でやってます。毎月成績（前月比）更新します。5月実績6617→6962PV 収益アドセンス1299→1042円 ASP319→2708円 「おいしい話には簡単にのらない」「情報に振り回されない」がモットー 最近は独学プログラミングブログになってます。お仕事のご依頼はLancers経由で。イチゲをフォローするイチゲブログの成績 誰もアクセスしていないとサーバーが寝てしまうので起きて表示するまで数分かかる場合があります。イチゲブログのアクセス集計イチゲブログのGoogle Search Console検索データ分析自作ブログ内検索Pythonで作った自作ブログ内検索ツール（立ち上がりに数分かかります。クラッシュしていることもあります。）イチゲブログ内検索カテゴリー100円ショップ5AI6アフィリエイト初心者37WordPressブログ入門（アフィリエイト）2ブログに役立つ無料ツール＆テクニック23独学アフィリエイト収益化への道、お名前ドットコム12お得・節約6ハードロック7メロディアスハードロック7パソコン17ソフト12ハード5プログラミング59Python42Django25Streamlit3Vue6健康2副業3Lancers2家電23スマフォ5テレビ2冷蔵庫2掃除機1洗濯機10映画5時事ネタ3未分類1株2葬儀3観光1最近の投稿【初心者向け】【画像投稿（Storage）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月14日【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月10日【初心者向け】【FirestoreとHosting編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月8日タイトルを入れるだけでAIが動画を作ってくれるVrewを試してみた。2023年5月29日広告イチゲ　ブログHOMEプロフィールTwitterプライバシーポリシーお問い合わせ© 2020 イチゲ　ブログ.メニュー□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！ホーム検索トップサイドバータイトルとURLをコピーしました"
+160,https://kikuichige.com/19439/,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DjangoでデータベースSQLite3にmp3を保存してみた | イチゲ　ブログイチゲ　ブログ□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！DjangoでデータベースSQLite3にmp3を保存してみた2023.06.012023.05.20 この記事は約8分で読めます。広告文字列などをSQLite3に保存するとdb.sqliteファイルに保存される。mp3も同じようにdb.sqliteに保存されるのか？と予想していましたが。mp3を実際に保存してみるとmanage.pyが置いてあるルートのディレクトリにmp3ファイルとして保存されました。ずんだもんのmp3を動的に保存するアプリを作って確認しました。作ったアプリがこちらずんだもんに励ましてもらおう！+ずんだもんに天気を聞いてみよう！（railwayにデプロイ毎月２１日以降停止）ずんだもんに励ましてもらおう！+ずんだもんに天気を聞いてみよう！（Renderにデプロイ立ち上がるまで数分かかります）Renderの無料プランにデプロイしているので立ち上がるまで数分かかります。またデータベースのデータが毎回なくなるので、最初にmp3を持ってきて保存するのに100秒かります。使い方は下を見てください。Renderの無料プランについてはこちらの記事を参考にしてください。【Django入門】Render（無料プラン）のQuickstartsをWindows11でやってみるRenderのQuickstarts/DjangoをpipとWindows11でやってみました。初心者は公式が書いてるやり方以外は、やらない方がいいと思います。しかし今回、私の環境では公式通りの手順でできないため、ご紹介するような形になって...kikuichige.com2023.05.05ずんだもんのmp3についてはこちらの記事を参考にしてください。【初心者向け】Google Bardでプログラミングできるのか？「ずんだもんの声がするボタンをつくる」Google Bardで日本語が使えるようになったので使ってみた。実践的なプログラムをBardに聞きながら作りました。BingやChatGptでも同じことができます。ボタンを押したらVoiceBoxのずんだもんの声が再生されるプログラムを作...kikuichige.com2023.05.12アプリのベースにしたのは、こちらのDjangoのRestFrameworksとVue.jsで作ったアプリです。【Django入門】Django REST framework+　Vue　CLIでPOSTでデータ送ってみるDjango REST framework + Vue CLIがうまくいかないので次の点を明らかにしたいと思い作りました。REST frameworkにPOSTするだけでデータベースにかきこまれるのか？DjangoとVueCLIがうまくいか...kikuichige.com2022.08.31目次mp3を動的に保存してみたフロントから読み出して音を鳴らすフロント側（Vue.js）Django側「ずんだもんに励ましてもらおう！」の使い方天気予報も追加あとがき広告mp3を動的に保存してみたテキストに対するずんだもんの声のmp3を取得しています。ずんだもんの声のmp3を動的に取得する方法参照situmon='お疲れーっす。ずんだもんです。'
+url=r'https://api.tts.quest/v1/voicevox/?text='+urllib.parse.quote(situmon)+r'&speaker=1'
+res = requests.get(url)
+time.sleep(5)
+d=res.json()
+song=d[""mp3DownloadUrl""]songにはmp3があるurlが入っています。ChatGptに、どうやって保存すればいいか聞いた結果。response = urllib.request.urlopen(song)
+
+#responseはhttp.client.HTTPResponse object
+#http.client.HTTPResponse オブジェクトは、Python の http.client モジュールによって提供される HTTP レスポンスオブジェクトです。HTTP サーバから受け取った HTTP レスポンスを表します。このオブジェクトには、ステータスコード、ヘッダー、本文など、HTTP レスポンスに関する情報が含まれています。                                
+
+# レスポンスオブジェクトからファイルオブジェクトを作成します。
+from django.core.files.base import ContentFile
+file_obj = ContentFile(response.read(), name='my_song.mp3')
+   
+# ファイルオブジェクトをモデルに保存します。
+song = Song()
+song.title='モアちゃん'
+song.audio_file = file_obj
+song.save()
+
+保存するモデルmodels.py
+class Song(models.Model):
+    song_id = models.AutoField(primary_key=True)
+    title = models.CharField(max_length=64)
+    audio_file = models.FileField()
+保存されたものをDjango REST frameworkのApi画面で見てみると以下のようになっています。
+""audio_file""には保存先が保存され、実際のmp3ファイルはルート（manage.pyがあるディレクトリ）に保存されています。
+{
+        ""song_id"": 1,
+        ""title"": ""モアちゃん"",
+        ""audio_file"": ""https://zundahage.onrender.com/my_song_GH087BQ.mp3"",
+    },
+目次へフロントから読み出して音を鳴らすフロント側（Vue.js）フロント側のJavascriptは以下の関数を実行すれば声が再生されます。function AudioFunc(){
+    const m = new Audio('例　http://127.0.0.1:8000/test/songs/audio/2');
+    m.play();
+}Django側サーバー側（Django側）では、以下のように音声ファイルをデータベースから取り出しreturnすればいい。データベースから読み出す場合
+from django.http import FileResponse
+song = models.Song.objects.get(song_id=id) 
+return FileResponse(song.audio_file.open())
+
+HTTP レスポンスオブジェクトを使う場合（file_obj = ContentFile(response.read(), name='my_song.mp3')を実行しないとき
+from django.http import HttpResponse
+return HttpResponse(response.read(), content_type='audio/mp3')フロント側でjsonでDjangoのRestFrameworksに以下のようにリクエストするとデータベースに保存した""audio_file"": ""https://zundahage.onrender.com/my_song_GH087BQ.mp3"",などのjsonが返ってくるのでうまくいきません。
+function AudioFunc(){
+    const m = new Audio('http://127.0.0.1:8000/test/songs/audio/2/?format=json');
+    m.play();
+}
+またconst m = new Audio('http://127.0.0.1:8000/test/songs/audio/2');にした場合も、Django側で上のreturn処理にいくようにしないとDjango REST frameworkのApi画面が表示されてしまいます。
+その辺は、こちらを参考にしてください。
+目次へ「ずんだもんに励ましてもらおう！」の使い方Railway版は毎月２１日以降は使えません。Render版は立ち上がるまで数分かかります。初期化-テキスト登録を押してください。(Render版のみ）初期化-音声登録ボタンを押してください。(Render版のみ）初期化するので100秒お待ちください。(Render版のみ）あらかじめ用意したテキストをWEB版VOICEVOX API（低速）でずんだもんの声に変換して保存してます。（処理完了は確認していません。タイマーでセットしています。定期的に声がします。）本文: (article_body) に読んでもらいたい名前を入力して名前登録ボタンを押してください。ずんだもん励まして！ボタンを押すと名前を呼んだあと励ましの言葉をかけてもらえます。5回。そのほか、本文: (article_body) に入力して「オーム返し(22文字以内)」を押すと読み上げます。ページをリロードするとデータベースに保存した読み上げテキストと実際に保存されている音声のテキストが表示されます。実際に登録されている音声の1が名前で、6～10が励ましの言葉です。処理がうまくいかず2重に入る場合があります。天気予報も追加テキスト入力→ChatGpt　API→ずんだもん音声としたいところですが、ChatGpt　APIはお金がかかるので気象庁の天気予報JSONファイルをWebAPI的に利用したサンプルアプリを参考に「ずんだもんに天気を聞いてみよう！」機能を追加しました。天気の聞き方は漢字の県名（栃木より西）を含んだ質問文であれば答えられるようにしてみました。AIではなくプログラムで処理しています。参考サイトではヘッドラインというjson項目があったようですが、今、やったらそこは空欄になっていました。なので天気予報の詳細からヘッドライン的なところを22文字抽出して声にしています。ローカルではうまくいくのですがRender上だと前の返答が返ってくることがあります。あとがきSQLite3の場合はmanage.pyがあるところにmp3が保存されている。Django側にリンク先をデータベースに保存し、mp3は別のサーバーに置こうと考えましたが例えばxfree（混合コンテンツで無理）やブログで使っているお名前.com のサーバーに保存してリンクをデータベースに保存。しかし動的には無理だしcorsにも引っかかる。サーバー側のcors設定できない。ということでこの形になっています。posgresなどを使う場合settings.pyのmediaで保存先を設定するみたいです。（実施確認してない）それと今回1番苦労した点は、同期に関することです。フロントからDjangoへの処理がコードの見た目と違って追い越して実行されたり、DjangoからAPI取得する前に先に進んだり。フロント側の処理は、こちらのYoutubeを参考にさせていただき順番に実行できるようになりました。【ワンピースで覚えるJavaScript】第１５回 非同期処理 Promise/async/await(プログラミング入門講座)しかし、まだ安定した動作はしていません。目次へイチゲをOFUSEで応援する(御質問でもOKです）Vプリカでのお支払いがおすすめです。MENTAやってます（ichige）DjangoPythonVueプログラミング広告シェアするTwitterLINEコピー イチゲ　ブログイチゲ　ブログ 関連記事Vue 【Vue.js3入門】Javascriptが、あまり分からない人向け 初心者が公式のVue.jsを読んで勉強しようとしても難しく感じると思うので私なりに公式をベースに解説したいと思います。対象はHTML、CSSが、ある程度わかっている方Javascriptは分からなくてもいけるかもしれません。公式が分かりづら...Django 海外で人気のバンド、外人の初見リアクション検索アプリ(YoutubeApi利用）BabyMetal、Lovebites、BAND-MAID、Nemophila YoutubeApiを使いDjangoで外人の初見リアクション動画を検索できるWebアプリを作りました。上にあげた4つのグループはBabyMetal以外、日本での認知度も低い。BabyMetal以外はガールズバンドです。最近はASTERIS... コメントコメントを書き込むコメントをどうぞ コメントをキャンセルメールアドレスが公開されることはありません。 * が付いている欄は必須項目ですコメント ※ 名前 ※ メール ※ サイト  次回のコメントで使用するためブラウザーに自分の名前、メールアドレス、サイトを保存する。 ΔホームプログラミングPythonDjango広告イチゲブログ イチゲイチゲブログ、プログラム、節約術など情報発信していきます。 20/9月からブログ開始/お金を掛けないでWordPressブログ運営を独学でやってます。毎月成績（前月比）更新します。5月実績6617→6962PV 収益アドセンス1299→1042円 ASP319→2708円 「おいしい話には簡単にのらない」「情報に振り回されない」がモットー 最近は独学プログラミングブログになってます。お仕事のご依頼はLancers経由で。イチゲをフォローするイチゲブログの成績 誰もアクセスしていないとサーバーが寝てしまうので起きて表示するまで数分かかる場合があります。イチゲブログのアクセス集計イチゲブログのGoogle Search Console検索データ分析自作ブログ内検索Pythonで作った自作ブログ内検索ツール（立ち上がりに数分かかります。クラッシュしていることもあります。）イチゲブログ内検索カテゴリー100円ショップ5AI6アフィリエイト初心者37WordPressブログ入門（アフィリエイト）2ブログに役立つ無料ツール＆テクニック23独学アフィリエイト収益化への道、お名前ドットコム12お得・節約6ハードロック7メロディアスハードロック7パソコン17ソフト12ハード5プログラミング59Python42Django25Streamlit3Vue6健康2副業3Lancers2家電23スマフォ5テレビ2冷蔵庫2掃除機1洗濯機10映画5時事ネタ3未分類1株2葬儀3観光1最近の投稿【初心者向け】【画像投稿（Storage）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月14日【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月10日【初心者向け】【FirestoreとHosting編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月8日タイトルを入れるだけでAIが動画を作ってくれるVrewを試してみた。2023年5月29日広告イチゲ　ブログHOMEプロフィールTwitterプライバシーポリシーお問い合わせ© 2020 イチゲ　ブログ.メニュー□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！ホーム検索トップサイドバータイトルとURLをコピーしました"
+161,https://kikuichige.com/19586/,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【初心者向け】Google　Bardでプログラミングできるのか２？「キッチンタイマーを作る」 | イチゲ　ブログイチゲ　ブログ□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！【初心者向け】Google　Bardでプログラミングできるのか２？「キッチンタイマーを作る」2023.05.23 この記事は約17分で読めます。広告Google Bardに聞きながらキッチンタイマーを作ってみました。ChatGptやBingでも同じようにできます。結局AIに1から聞いて作ると行き詰ります。その様子と作り上げるためにしたことをご紹介します。同じ質問をしてもAIは異なるコードを回答してくる可能性が高いので、ご自分で実行したとき本記事と違うコードが回答されるかもしれません。プログラムのメモ帳での実行方法などは、こちらを参照してください。【初心者向け】Google Bardでプログラミングできるのか？「ずんだもんの声がするボタンをつくる」Google Bardで日本語が使えるようになったので使ってみた。実践的なプログラムをBardに聞きながら作りました。BingやChatGptでも同じことができます。ボタンを押したらVoiceBoxのずんだもんの声が再生されるプログラムを作...kikuichige.com2023.05.12キッチンタイマー完成品（シンプル版）　声がするキッチンタイマー完成品（機能拡張版）目次とりあえず聞いてみるうまくいかないので質問を変える行き詰まるシンプルな質問で解決見栄えやバグ修正、音声を追加あとがき広告とりあえず聞いてみる質問1：キッチンタイマーをHTML、CSS、JavaScriptで作ってBardの回答1：Bardの回答1<!DOCTYPE html>
+<html>
+<head>
+<title>キッチンタイマー</title>
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+}
+
+.timer {
+  width: 200px;
+  height: 200px;
+  margin: 100px auto;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.timer .time {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.timer .buttons {
+  margin-top: 20px;
+}
+
+.timer .start-button {
+  background-color: #0088cc;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.timer .stop-button {
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+<div class=""timer"">
+  <div class=""time"">00:00</div>
+  <div class=""buttons"">
+    <button class=""start-button"">スタート</button>
+    <button class=""stop-button"">ストップ</button>
+  </div>
+</div>
+
+<script>
+var timer = document.querySelector("".timer"");
+var time = document.querySelector("".time"");
+var startButton = document.querySelector("".start-button"");
+var stopButton = document.querySelector("".stop-button"");
+
+var interval;
+
+startButton.addEventListener(""click"", function() {
+  if (interval) {
+    window.clearInterval(interval);
+  }
+
+  interval = window.setInterval(function() {
+    var seconds = Math.floor(new Date() / 1000);
+    var minutes = Math.floor(seconds / 60);
+    seconds %= 60;
+
+    time.innerHTML = minutes + "":"" + seconds;
+  }, 1000);
+});
+
+stopButton.addEventListener(""click"", function() {
+  if (interval) {
+    window.clearInterval(interval);
+  }
+});
+</script>
+</body>
+</html>
+実際の動作：スタートを押すと巨大な数字28079109:53ぐらいからカウントアップ始める。ストップを押すと止まる。うまくいかないので質問を変える一気に作るのではなく簡単な機能から聞きながら作っていくことにした。質問2：HTML、JavaScriptで0から1秒ずつカウントするタイマーを作ってBardの回答2：Bardの回答2<!DOCTYPE html>
+<html lang=""ja"">
+<head>
+<meta charset=""UTF-8"">
+<title>カウントダウンタイマー</title>
+</head>
+<body>
+<h1>カウントダウンタイマー</h1>
+<p id=""timer""></p>
+<script>
+var timer = 0;
+setInterval(function() {
+  timer++;
+  document.getElementById(""timer"").innerHTML = timer;
+}, 1000);
+</script>
+</body>
+</html>
+質問3：スタートボタンとストップボタンとリセットボタンを追加してBardの回答3<!DOCTYPE html>
+<html>
+<head>
+<meta charset=""utf-8"">
+<title>Countup Timer</title>
+</head>
+<body>
+<h1>Countup Timer</h1>
+<div id=""timer""></div>
+<button id=""start"">Start</button>
+<button id=""stop"">Stop</button>
+<button id=""reset"">Reset</button>
+<script>
+var timer = 0;
+var running = false;
+
+function startTimer() {
+  running = true;
+  setInterval(function() {
+    if (!running) {
+      return;
+    }
+    timer++;
+    document.getElementById(""timer"").innerHTML = timer;
+  }, 1000);
+}
+
+function stopTimer() {
+  running = false;
+  clearInterval(timer);
+}
+
+function resetTimer() {
+  timer = 0;
+  document.getElementById(""timer"").innerHTML = timer;
+}
+
+document.getElementById(""start"").addEventListener(""click"", startTimer);
+document.getElementById(""stop"").addEventListener(""click"", stopTimer);
+document.getElementById(""reset"").addEventListener(""click"", resetTimer);
+</script>
+</body>
+</html>
+質問4：停止やリセットを押したあとスタートを押すと1秒より速くカウントアップするので直してBardの回答4<!DOCTYPE html>
+<html>
+<head>
+<meta charset=""utf-8"">
+<title>Countup Timer</title>
+</head>
+<body>
+<h1>Countup Timer</h1>
+<div id=""timer""></div>
+<button id=""start"">Start</button>
+<button id=""stop"">Stop</button>
+<button id=""reset"">Reset</button>
+<script>
+var timer = 0;
+var running = false;
+var intervalId;
+
+function startTimer() {
+  running = true;
+  intervalId =setInterval(function() {
+    if (!running) {
+      clearInterval(intervalId);
+      return;
+    }
+    timer++;
+    document.getElementById(""timer"").innerHTML = timer;
+  }, 1000);
+}
+
+function stopTimer() {
+  running = false;
+  clearInterval(intervalId);
+}
+
+function resetTimer() {
+  timer = 0;
+  document.getElementById(""timer"").innerHTML = timer;
+  stopTimer();
+}
+
+document.getElementById(""start"").addEventListener(""click"", startTimer);
+document.getElementById(""stop"").addEventListener(""click"", stopTimer);
+document.getElementById(""reset"").addEventListener(""click"", resetTimer);
+</script>
+</body>
+</html>
+ここまでは順調に動作するものが回答された。目次へ行き詰まる質問5：目標値が３分と５分のボタンを追加して時間になったらメッセージを表示してBardの回答5<!DOCTYPE html>
+<html>
+<head>
+<meta charset=""utf-8"">
+<title>Countup Timer</title>
+</head>
+<body>
+<h1>Countup Timer</h1>
+<div id=""timer""></div>
+<button id=""start"">Start</button>
+<button id=""stop"">Stop</button>
+<button id=""reset"">Reset</button>
+<button id=""three-minute-timer"">3 Minute Timer</button>
+<button id=""five-minute-timer"">5 Minute Timer</button>
+<script>
+var timer = 0;
+var running = false;
+var intervalId;
+
+function startTimer() {
+  running = true;
+  intervalId = setInterval(function() {
+    if (!running) {
+      clearInterval(intervalId);
+      return;
+    }
+    timer++;
+    document.getElementById(""timer"").innerHTML = timer;
+  }, 1000);
+}
+
+function stopTimer() {
+  running = false;
+  clearInterval(intervalId);
+}
+
+function resetTimer() {
+  timer = 0;
+  document.getElementById(""timer"").innerHTML = timer;
+  stopTimer();
+}
+
+function threeMinuteTimer() {
+  startTimer();
+  var threeMinuteTimer = setTimeout(function() {
+    running = false;
+    alert(""3 minutes have passed!"");
+  }, 180000);
+}
+
+function fiveMinuteTimer() {
+  startTimer();
+  var fiveMinuteTimer = setTimeout(function() {
+    running = false;
+    alert(""5 minutes have passed!"");
+  }, 300000);
+}
+
+document.getElementById(""start"").addEventListener(""click"", startTimer);
+document.getElementById(""stop"").addEventListener(""click"", stopTimer);
+document.getElementById(""reset"").addEventListener(""click"", resetTimer);
+document.getElementById(""three-minute-timer"").addEventListener(""click"", threeMinuteTimer);
+document.getElementById(""five-minute-timer"").addEventListener(""click"", fiveMinuteTimer);
+</script>
+</body>
+</html>
+以下は上のコードを動作確認のため3minutes→10秒にしてあるものです。10secondsをクリックすると10秒カウントをはじめ10秒たつとアラートが出ます。Countup TimerStartStopReset10 seconds Timer5 Minute Timer結果：時間が来たらアラートとして表示される。意図したのは画面に出てほしい。そこで修正してもらうために以下の質問と実験を繰り返したがうまくいかなかった。メッセージの意味が伝わらない点が大きい。メッセージは画面に出してください→メッセージはalertでだすのではなくボタンの上に出してください→メッセージはdivタグでかこまれているところに出してください→時間が来たら文字列を<div id=”message”></div>に表示してくださいここまでは、元のコードを修正してもらおうとしていた。ここから機能をしぼって質問した。→ボタンを押したらタイマーがスタートし１０秒後にpタグに’完了’の文字を表示するコードしかし意図した結果は得られなかった。目次へシンプルな質問で解決解決に至った質問質問：javascriptでボタンを押したら文字を表示する方法はBardの回答：<button onclick=""document.getElementById('text').innerHTML = 'Hello World!'"">Click me!</button>
+<div id=""text""></div>Click me!これにより赤色の部分が文字を表示させるコードで、表示させる場所は青色の部分だということがわかった。よってBardの回答5を以下のように修正すれば基本的なものは完成です。略
+<h1>Countup Timer</h1>
+<div id=""text""></div>
+<div id=""timer""></div>
+略
+function resetTimer() {
+  timer = 0;
+  document.getElementById(""timer"").innerHTML = timer;
+  stopTimer();
+  document.getElementById('text').innerHTML = '';
+}
+略
+alert(""3 minutes have passed!"");→document.getElementById('text').innerHTML = 'おかみさん、時間ですよ！';
+略
+alert(""5 minutes have passed!"");→document.getElementById('text').innerHTML = 'おかみさん、時間ですよ！';キッチンタイマー完成品　5second　timerを押して確認してください。目次へ見栄えやバグ修正、音声を追加見栄えは1番最初のBardの回答1でCSSが使われていたので、それを基本的に利用。ボタンの押す順番によっては動作がおかしくなるので対策。時間が来たら音声で知らせるようにした。Bardに聞いたりGoogleったり実験したりの合わせ技で完成。声がするキッチンタイマーこちらのソースはアプリを表示した状態でEdgeの場合、どこかで右クリック→「開発者ツールで調査する」→ソースタブで左に表示しているkitchen.htmlまたはkitchen1.htmlをダブルクリックすれば見れます。あとがき知らないことをAIに聞きながらプログラミングすると必ず行き詰ります。そこで基本の勉強を本やGoogleで調べて行う。シンプルなコードにそぎ落として、ここはこういう動作だなと実験して理解する。AIに聞く。この合わせ技で結局はコードが何をやっているか理解していくしかないと思います。いつも述べていますがAIに丸投げでプログラミングはできない。基本的なことは勉強しないとダメだと思います。今回Bardでやっていますが、ChatGptやBingを使っても大差はないです。イチゲをOFUSEで応援する(御質問でもOKです）Vプリカでのお支払いがおすすめです。MENTAやってます（ichige）目次へプログラミング広告シェアするTwitterLINEコピー イチゲ　ブログイチゲ　ブログ 関連記事プログラミング 【Vue.jsの基礎】Vue CLIで実践的に学ぶ方法！vue createでできたファイルを解説！ビルドとは？ html、css、jsは何となくわかるけどVue.jsを始めてみたいかた向けの記事です。ブラウザで表示できるのは結局html、css、jsです。Vue.jsとはhtml、css、jsでの開発の手間を省くツールです。最後はビルドという工程によ...Python 【初心者向け】PythonでWindowsの操作を自動化!何でも使える方法【PyAutoGui】【Pandas】 PythonでWindowsの操作を自動化します。アプリ化しないでJupiterNotebookをつかうので、デバッグや改良が簡単に行えます。特徴はクリックするだけで座標を取得しリスト化します。手動で操作する部分も混ぜられるようにしています... コメントコメントを書き込むコメントをどうぞ コメントをキャンセルメールアドレスが公開されることはありません。 * が付いている欄は必須項目ですコメント ※ 名前 ※ メール ※ サイト  次回のコメントで使用するためブラウザーに自分の名前、メールアドレス、サイトを保存する。 Δホームプログラミング広告イチゲブログ イチゲイチゲブログ、プログラム、節約術など情報発信していきます。 20/9月からブログ開始/お金を掛けないでWordPressブログ運営を独学でやってます。毎月成績（前月比）更新します。5月実績6617→6962PV 収益アドセンス1299→1042円 ASP319→2708円 「おいしい話には簡単にのらない」「情報に振り回されない」がモットー 最近は独学プログラミングブログになってます。お仕事のご依頼はLancers経由で。イチゲをフォローするイチゲブログの成績 誰もアクセスしていないとサーバーが寝てしまうので起きて表示するまで数分かかる場合があります。イチゲブログのアクセス集計イチゲブログのGoogle Search Console検索データ分析自作ブログ内検索Pythonで作った自作ブログ内検索ツール（立ち上がりに数分かかります。クラッシュしていることもあります。）イチゲブログ内検索カテゴリー100円ショップ5AI6アフィリエイト初心者37WordPressブログ入門（アフィリエイト）2ブログに役立つ無料ツール＆テクニック23独学アフィリエイト収益化への道、お名前ドットコム12お得・節約6ハードロック7メロディアスハードロック7パソコン17ソフト12ハード5プログラミング59Python42Django25Streamlit3Vue6健康2副業3Lancers2家電23スマフォ5テレビ2冷蔵庫2掃除機1洗濯機10映画5時事ネタ3未分類1株2葬儀3観光1最近の投稿【初心者向け】【画像投稿（Storage）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月14日【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月10日【初心者向け】【FirestoreとHosting編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月8日タイトルを入れるだけでAIが動画を作ってくれるVrewを試してみた。2023年5月29日広告イチゲ　ブログHOMEプロフィールTwitterプライバシーポリシーお問い合わせ© 2020 イチゲ　ブログ.メニュー□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！ホーム検索トップサイドバータイトルとURLをコピーしました"
+162,https://kikuichige.com/19676/,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+タイトルを入れるだけでAIが動画を作ってくれるVrewを試してみた。 | イチゲ　ブログイチゲ　ブログ□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！タイトルを入れるだけでAIが動画を作ってくれるVrewを試してみた。2023.06.012023.05.29 この記事は約6分で読めます。広告Vrewでタイトルだけ入れて動画できるということなので、本当にできるのか試してみました。結果は、タイトルだけでもかなりの完成度ですが。さすがにちょっとおかしい部分があるので手動で修正しました。その仕上げる過程をご紹介します。Vrewのダウンロード、登録方法はお調べください。メールがあれば無料プランが使えます。フリープランはクレカ登録不要。今回3つ動画を作りました。①、タイトルだけ入れて他はてお加えていない動画②、①を手動で修正した動画③、②の手順の動画目次フリープランタイトルだけ入れて動画を作ってみる修正無音動画は難しい？あとがき広告フリープラン音声分析120分、AI音声10000文字、翻訳30000文字を無料で使えます。毎月1日にリセットされる。音声分析とは動画の音声から字幕を作る機能です。2023/4まで無制限・無料で使えたので私はよく利用していました。5月から120分になりました。新規作成で動画を読み込むと自動で音声分析が始まるため、動画編集だけ無制限に使うのは、ここからでは無理だと思います。ほかに手段はあるかもしれませんが。またプロジェクトを保存しないで、同じ動画を読み込むと新たに音声分析を始めてしまうのでもったいないです。プロジェクト保存しておけば音声分析を再度行うことはないのでプロジェクト保存はするようにしましょう。AI音声は、現在の使用量が確認できます。下の動画を完成させた状態（タイトルだけ入力で作った版）で確認してみました。1：30の動画で約1400文字でした。このペースだと90*10000/1400＝642秒（約10分）で10000文字の制限になりそうです。また、読み方を変えたり細かい調整が後でできますが、その都度文字数が使われます。最終的な編集を終えた（手動修正版）で1686字まで消費しました。タイトルだけ入れて動画を作ってみる動画や音声素材をなにも用意せず、考えたのはタイトルのみで動画ができました。著作権に関してはここをご確認ください。新規で作成→「テキストからビデオを作製する」動画の台本を入力してください1/1テーマの要約「漫才コンビのボケ子とツッコミン子が会話形式で「Vrewの使い方」をネタに漫才をする」←ここだけ自分で考えたところ。動画のタイプ「コメディ/笑い話」→「AIで作文」・・・（設定）→スタイル「フラットベクトル」他はデフォルト次へ台本を読み上げる声優を選択してください2/2美桜を選択（音量だけ少し下げた）→完了ファイル→動画をエクスポート→エクスポート→保存3分後、mp4ファイルが完成。ファイル→プロジェクト保存で、いつでも再編集可能です。完成した動画↓↓名前も読み上げていますが、これはこれでいい感じもします。目次へ修正台本は、そのままでいろいろいじって完成させます。作り方の動画も作りました。声を2人にする。→声を変えたいところをチェックしていく→右クリックでマーカーを入れる。→上に表示されるメニューで音声修正→選んで確認（音声を変えるとAI音声の文字数が消費されます。）声を変えなかったほうも別の色でマーカーをつける名前を消す。→クリップの上のラインの対応する文字の右端に出る×を2回クリックすると削除される。編集の「検索と置換」を使う場合の注意点、検索結果に動画と字幕がある。字幕を削除するときは字幕タブで操作。動画（音声）のほうは動画タブで削除する。キャラクターを使う。→挿入→キャラクター→選ぶ→位置調整→コピー→マーカー一覧をクリック→全体選択するとマーカーがついてるクリップだけ選ばれる。→編集の貼り付けで選んだところに全部に張り付けられる。キャラクターがグループ化されていると一つ変更しただけで全部に適用されてしまうので、左下のキャラクターの設定をクリックで適用範囲が変えられる。直接入力で適用するクリップを選択できる。字幕の文字の色分け→マーカークリック→マーカー一覧→全体選択→書式→輪郭で色を選ぶ。2人同時に表示してキャラクターの口コントロール→キャラクターをコピー→マーカー一覧で反対側のマーカーで全体選択→編集の貼り付け→口を動く→音声分析に合わせて口を動くのチェックをはずす1個ずつ。区切りが悪いコマの分割、結合→クリップの上のラインの区切りたいところを選択→編集→クリップを分割→クリップを結合で下のクリップと結合される。字幕に半角スペースがいっぱい入ってるのを消す→編集の「検索と置換」で半角スペースを入力→字幕タブのほうで全体→選択した字幕を置換→そのまま、選択した字幕を置換字幕を適切に改行する。→shift+Enterで字幕内で改行できます。字幕が入りきらない→そのフレームだけチェックして書式でフォントサイズ150を小さくする→チェックをはずす（これをしないと他のも反映されることがある）読み間違い修正「分からなくて」が「ぶんからなくて」と言ってるところを修正→音声修正→最下段に文章があるので、ひらがなで修正→確認（確認は決定されるので音声をクリックすると試せる）間違いが多いのは「それは」とかの「は」をそのまま「は」と呼んでしまうので「それわ」と修正。最初の画面を字幕でなく真ん中にテキスト表示→挿入→基本テキストまたはデザインテキスト。字幕は消す。後ろの画像を変える→後ろの画像をクリックして出てくるメニュー→置き換える→PCから読み込む→画像が1番まえに来るので順番をクリック→最背面へ移動完成した動画↓↓Vrewの使い方は、みんなのVrewにあります。こちらを参考に修正しました。無音動画は難しい？パソコン操作をキャプチャーした動画にAI音声を加えた動画を作ると結構大変でした。Windows11標準搭載のClipchampでVrewで無音動画クリップを分割しVrewに読み込んでからAI音声を追加していくという形で作りました。うまいやり方があるのかもしれませんが、Vrewは音声を中心に編集するツールだと思います。作ったもの↓↓あとがき実用的な動画を作るときは、タイトルだけで丸投げということはないと思います。自分の手で作りこんだ台本を「動画の台本」に使い、ChatGptやBingやBardなどで台本を要約して「テーマの要約」に記入。自動作成したあとに必要に応じて自分が用意した画像に入れ替えるというのが現実的だと思います。キャラクターがしゃべる機能は役立つと思います。今回、紹介していませんが「録画・録音で始める」だと自分でしゃべったものが台本となりAI音声に変換できます。録画で自分が映っているものでも上からキャラクターをかぶして消すこともできます。それでもコンテンツの質は自分で考えた台本にあると思うのでAIの力を借りてAIと一緒に作る感じですね。イチゲをOFUSEで応援する(御質問でもOKです）Vプリカでのお支払いがおすすめです。MENTAやってます（ichige）目次へAIソフトパソコン広告シェアするTwitterLINEコピー イチゲ　ブログイチゲ　ブログ 関連記事ソフト EXCELで文字化けしてしまうCSVファイルの開き方！メモ帳を使わない方法 csvファイル（Microsoft Excel ｶﾝﾏ区切り文字ﾌｧｲﾙ)をEXCELでひらくと文字化けしてしまうことがあります。メモ帳で一旦開く方法でもうまくいきませんでした。というか無料のWEB版officeだからかもしれません。しかし...ソフト Windows10が遅い原因と対策！WindowsDefenderだけではダメなのか？ Windows10が遅い原因はメモリ不足です。なぜメモリ不足になっているか原因の調べ方と対策をご紹介します。メモリ不足の1番の原因になるのがウイルス対策ソフトです。Windows10標準搭載のWindowsDefenderだけにするとメモリ... コメントコメントを書き込むコメントをどうぞ コメントをキャンセルメールアドレスが公開されることはありません。 * が付いている欄は必須項目ですコメント ※ 名前 ※ メール ※ サイト  次回のコメントで使用するためブラウザーに自分の名前、メールアドレス、サイトを保存する。 ΔホームAI広告イチゲブログ イチゲイチゲブログ、プログラム、節約術など情報発信していきます。 20/9月からブログ開始/お金を掛けないでWordPressブログ運営を独学でやってます。毎月成績（前月比）更新します。5月実績6617→6962PV 収益アドセンス1299→1042円 ASP319→2708円 「おいしい話には簡単にのらない」「情報に振り回されない」がモットー 最近は独学プログラミングブログになってます。お仕事のご依頼はLancers経由で。イチゲをフォローするイチゲブログの成績 誰もアクセスしていないとサーバーが寝てしまうので起きて表示するまで数分かかる場合があります。イチゲブログのアクセス集計イチゲブログのGoogle Search Console検索データ分析自作ブログ内検索Pythonで作った自作ブログ内検索ツール（立ち上がりに数分かかります。クラッシュしていることもあります。）イチゲブログ内検索カテゴリー100円ショップ5AI6アフィリエイト初心者37WordPressブログ入門（アフィリエイト）2ブログに役立つ無料ツール＆テクニック23独学アフィリエイト収益化への道、お名前ドットコム12お得・節約6ハードロック7メロディアスハードロック7パソコン17ソフト12ハード5プログラミング59Python42Django25Streamlit3Vue6健康2副業3Lancers2家電23スマフォ5テレビ2冷蔵庫2掃除機1洗濯機10映画5時事ネタ3未分類1株2葬儀3観光1最近の投稿【初心者向け】【画像投稿（Storage）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月14日【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月10日【初心者向け】【FirestoreとHosting編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月8日タイトルを入れるだけでAIが動画を作ってくれるVrewを試してみた。2023年5月29日広告イチゲ　ブログHOMEプロフィールTwitterプライバシーポリシーお問い合わせ© 2020 イチゲ　ブログ.メニュー□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！ホーム検索トップサイドバータイトルとURLをコピーしました"
+163,https://kikuichige.com/19951/,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【初心者向け】【FirestoreとHosting編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。 | イチゲ　ブログイチゲ　ブログ□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！【初心者向け】【FirestoreとHosting編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023.06.142023.06.08 この記事は約21分で読めます。広告Vuetifyは、Vue.jsベースのユーザーインターフェースが簡単に作れます。Firebaseは、Googleが提供するモバイルおよびWebアプリケーションのためのプラットフォームです。今回その中のCloud Firestore（データベース）とHosting（アプリ公開）を利用します。開発環境、Node.jsがインストールされてるWindows11で実行しました。エディターはVSCode。【Docker】Windows11でプログラミング環境構築（Python、Django、Vue）パソコン買ったのでプログラミング環境を整えました。その様子です。Python、Django、Vueの環境を設定していきます。Docker導入でハマった点と解決策をご紹介します。Dockerやubuntu使うの今回が初めての私がネットで調べ試...kikuichige.com2022.10.29完成品　Firestore+Vuetifyで作った掲示板　名前とメッセージを書いて投稿。削除もできます。これのコードは載せますが解説はありません。firebase関連の処理や設定は別ファイルにするのが一般的なようですが、全部1つのファイルに書いてあります。動かすことが目的なのでセキュリティ等の検証は行っていません。その点はご了承ください。目次無料なのか？VuetifyFirestoreFirebase　CLIのインストールFirestoreの設定セキュリティ読み書きルールの設定Hostingあとがき広告無料なのか？Vuetifyは無料です。Firebaseを使用するにはGoogleアカウントがあれば使用できます。クレカ登録もしていません。Firebase の料金プランでSparkプランについての説明を読むと本当に無料なのか、ちょっと不安です。今回Cloud Firestore（データベース）とHosting（アプリ公開）を利用します。Spark プランの内容に、”有料の Firebase プロダクトに対する無料の使用量割り当て（Cloud Firestore、Cloud Storage、Hostingなど）”と書いてあります。Spark プランに関する重要事項には”いずれかのプロダクトで 1 か月あたりの無料割り当ての上限を超えた場合、その月の残りの期間にそのプロダクトを使用できなくなります。”と書いてありますが課金されないか気になります。その下には”アクションとシナリオによっては、プロジェクトのお支払いプランが自動で切り替わる場合があります。”と書いてあったり、よくわかりません。一応使用状況が確認できるようになっています。上の”当月に課金される追加使用分”とかいてあるところが気になります。英語モードで見ると以下Additional usage billed for month: Bytes stored over 1GB, Bandwidth over 10GB多分、ダウンロードがBandwidthでストレージがBytes storedではないかと思います。1GBではなく10GBではないのか？使っていて課金されるようであれば、ここでご報告します。VuetifyVuetifyについては2ですがVuetify入門を参考にしてください。今回は最新のVuetify3でアプリケーションを作ります。Node.js が必要です。Node.jsがインストールされている環境でGet started with Vuetify3に従ってVuetify3の開発環境を用意します。Node.jsのバージョン確認
+node -v
+v18.15.0
+yarnがはいっていないときyarn create vuetifyを実行するとエラーになる。
+そういうときはyarnインストール。参考：Windows 11でyarnをインストールする方法
+npm install -g yarn
+yarn create vuetify
+以下のように選択
+√ Project name: ... vuetify-project
+√ Which preset would you like to install? » Default (Vuetify)
+√ Use TypeScript? ... No 
+√ Would you like to install dependencies with yarn, npm, or pnpm? » yarn
+cd vuetify-project
+yarn dev
+http://localhost:3000/にアクセスするとVuetifyの画面が表示します。
+CTRL+Cでプログラムを止めます。
+
+firestoreをインストール（公式はnpm install firebaseとあるがネットで調べたらyarnもできた）
+yarn add firebase
+code .でVSCodeを立ち上げます。Vuetify部分は以前Vuetify2で作ったものですがVuetify3でエラーがでたところを少し修正するだけで使えました。デフォルトでできるHelloWorld.vueコンポーネントを置き換えるだけにします。この段階ではfirebase側の設定をしていないので実行できません。src/App.vueを修正<template>
+  <v-app>
+    <v-main>
+      <!-- <HelloWorld /> -->
+      <FrontEnd/>
+    </v-main>
+  </v-app>
+</template>
+
+<script setup>
+  // import HelloWorld from '@/components/HelloWorld.vue'
+  import FrontEnd from '@/components/FrontEnd.vue'
+</script>
+src/components/FrontEnd.vueを新規追加apiKey: と projectId: は”それぞれ人によって違う“,ので変更してください。（後述）<template>
+    <v-app id=""inspire""> 
+      <v-app-bar
+        class=""mt-4""
+        max-height=""50""
+        color=""deep-purple""
+        dark
+        absolute
+      >
+        <v-app-bar-nav-icon @click=""drawer = true""></v-app-bar-nav-icon>
+          <v-toolbar-title>Firestore+Vuetifyで作った掲示板</v-toolbar-title>
+      </v-app-bar>
+  
+      <v-navigation-drawer
+        v-model=""drawer""
+        absolute
+        temporary
+      >
+        <v-list
+          nav
+          dense
+        >
+          <v-list-item-group
+            active-class=""deep-purple--text text--accent-4""
+          >
+            <v-list-item href=""https://kikuichige.com"" target=""_blank"">
+                <v-list-item-icon>
+                    <v-icon>mdi-home</v-icon>
+                    </v-list-item-icon>
+                    <v-list-item-title>イチゲブログ</v-list-item-title>
+            </v-list-item>
+  
+            <v-list-item href=""https://vuetifyjs.com/ja/"" target=""_blank"">
+                <v-list-item-icon>
+                    <v-icon>mdi-home</v-icon>
+                    </v-list-item-icon>
+                    <v-list-item-title>Vuetify</v-list-item-title>
+            </v-list-item>
+          </v-list-item-group>
+        </v-list>
+  
+      </v-navigation-drawer>
+      <v-main class=""grey lighten-2"">
+        <v-container>
+          <v-row>
+            <v-col class=""mt-2"" cols=""12"">
+              <v-sheet height=""230"" color=""orange lighten-2"" class=""mt-2 mx-auto"" max-width=""400"">
+                  <v-text-field
+                    v-model=""new_article_heading""
+                    label=""名前を入力してください""
+                    filled>
+                  </v-text-field>
+                  <v-text-field
+                    v-model=""new_article_body""
+                    label=""メッセージを入力してください""
+                    filled>
+                  </v-text-field>
+                  <v-btn color=""success"" dark v-on:click=""createNewUser"">投稿</v-btn>
+              </v-sheet>
+            </v-col>
+  
+            <template v-for=""(article, index) in articles"" :key=""index"">
+              <v-col
+                
+                class=""mt-2""
+                cols=""12""
+              >
+                <v-card
+                    class=""mt-2 mx-auto""
+                    max-width=""400""
+                    color=""lime lighten-5""
+                >
+                    <v-card-text class=""text--primary"">
+                      <div><br>ID: {{ article.article_id}}<br>投稿日時: {{ article.pub_date}}<br>名前: {{ article.article_heading}}<br>{{ article.article_body}}</div>
+                    </v-card-text>
+                    <v-card-actions>
+                        <v-btn color=""success"" dark v-on:click=""DeletedArc(article.article_id)"">削除</v-btn>
+                    </v-card-actions>
+                </v-card>
+              </v-col>
+            </template>
+          </v-row>
+        </v-container>
+      </v-main>
+      <!-- フッター -->
+      <v-footer padless>
+          <v-col
+            class=""text-center""
+            cols=""12""
+          >
+            <p>Copyright (c) 2023 イチゲブログ</p><v-btn href=""https://opensource.org/licenses/mit-license.php"">Released under the MIT license</v-btn>
+          </v-col>
+      </v-footer>
+      <!-- フッターend -->
+    </v-app>
+  </template>
+    
+  <script>
+  // 「Cloud Firestore を初期化する」コピーしたものbegin
+    import { initializeApp } from ""firebase/app"";
+    import { getFirestore } from ""firebase/firestore"";
+  
+      const firebaseConfig = {
+          apiKey: ""それぞれ人によって違う"",
+          projectId: ""それぞれ人によって違う"",
+      };
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+      // Initialize Cloud Firestore and get a reference to the service
+      const db = getFirestore(app);
+  //「 Cloud Firestore を初期化する」をコピーしたものend
+  // 使用する関数（firebaseが用意している）をここに追加する
+    import { collection, getDocs,addDoc,doc, deleteDoc} from ""firebase/firestore""
+  
+      export default {
+        data() { 
+            return{
+                drawer: null,
+                articles: [],
+                new_article_heading:'',
+                new_article_body:'',
+                del_article_id:'',
+            };
+        },
+        created(){
+            this.getArticles();
+        },
+        methods: {
+          // firestoreからデータ取得
+            async getArticles() {
+              this.articles=[];
+              const querySnapshot = await getDocs(collection(db, ""users""));
+              querySnapshot.forEach((doc) => {
+                let article_buf=doc.data();
+                article_buf[""article_id""]=doc.id
+                console.log(""article_buf => "", article_buf);
+                this.articles.push(article_buf)
+              });
+            // 日付順にソート
+              this.articles.sort((a, b) => new Date(a.pub_date) - new Date(b.pub_date)).reverse();
+            },
+            // firestoreにデータ書き込み
+            async createNewUser(){
+              var date = new Date();
+              try {
+                const docRef = await addDoc(collection(db, ""users""), {
+                  ""article_heading"": this.new_article_heading,
+                  ""article_body"": this.new_article_body,
+                  ""pub_date"":date.toLocaleString(),
+                });
+                console.log(""Document written with ID: "", docRef.id);
+                this.new_article_heading='';
+                this.new_article_body='';
+              } catch (e) {
+                console.error(""Error adding document: "", e);
+              }
+              this.getArticles();
+            },
+            // firestoreのデータ1件削除
+            async DeletedArc(delId){
+              console.log(""delid=>"",delId);
+              await deleteDoc(doc(db, ""users"", delId));
+              this.getArticles();
+            },
+          },
+      }
+    </script>public/index.html
+<html lang=""en"">→<html lang=""ja"">にしておくとアプリを開いたときブラウザが翻訳するか？とたずねてこなくなります。
+タブに表示する文字は以下で設定
+<title>Firestore+Vuetifyで作った掲示板</title>
+目次へFirestoreデータベースを作成します。Firebase　CLIのインストールFirebase CLI をインストールするにしたがってCLIをインストールしGoogleアカウントと紐づけます。// firebase CLIのインストール（公式はnpmしかないがネットで調べたらyarnもできた）
+yarn add firebase-tools
+Google アカウントで Firebase にログインする
+firebase loginFirestoreの設定Googleアカウントでログインした状態でFirebaseへアクセス→コンソールへ移動（右上にある）→プロジェクトを追加→任意のプロジェクト名を入力→続行→Googleアナリスティクスを使っていなければ「Googleアナリスティクスを有効にする」をOFF（私はOFF）にして続行→プロジェクトを作成→続行。左の構築にあるFirestore databaseをクリックするとfirestoreに移動します。Cloud Firestore データベースを作成する（Web Version9(modular))にしたがってデータベースを作ります。Cloud Firestoreへ移動→データベースの作成→テストモード→データベースのロケーションは私はasia-northeast1東京を選びました。有効にする→完了左上のFirebaseをクリック→今、作ったプロジェクトをクリック→プロジェクトにアプリを追加するため</>をクリック→アプリのニックネームを入力→アプリを登録→×で閉じるnpm install firebase@9.21.0 --saveはyarn add firebaseで実施済みなので不要
+
+FIREBASE_CONFIGURATION(firebaseConfig)の値はプロジェクトの概要→プロジェクトの設定で下のほうにapiKeyとprojectIdがあるので、上で作ったFrontEnd.vueの所定の位置に貼り付けてください。プログラムを実行
+yarn devプログラムを実行して何か投稿するとデータが書き込まれます。Cloud Firestoreのコンソールを再読み込みするとデータが追加されているのがわかります。左側の列にusers中央のドキュメントの列に自動で割り振られたID（例9KoLd0uh1shgezP97mDw）右のフィールドに書き込んだ項目と日付が入ります。（例article_body”投稿テスト”article_heading”管理人”pub_date”2023/6/7 16:39:54″）Googleアナリスティクスについては、こちらでどんなものか見てください。私は、このブログ解析で使っています。アクセス数、見るぐらいですが。そのくらいならfirestoreの使用状況見れば済むと思います。【2021初心者向け】Googleアナリスティクス4使い方2020/10Googleアナリスティクスが4にバージョンアップしました。ネット上のGoogleアナリスティクスの情報は古いものが多く最新バージョンの画面と異なっています。設定項目が多いためデフォルト状態でも見れる項目を初心者向けに解説しま...kikuichige.com2021.01.18目次へセキュリティ今回作ったものはWebにアクセスした人に以下の*の部分が検証ツールで見えてしまいます。最初全部書いてたけど必要なものがどれか実験していったらapiKeyとprojectIdの２つだけあれば動きました。Google BardにapiKeyとprojectId公開してもいいか聞いたら。apikeyはOKだけど、projectIDはダメと言われました。生成系AIの出す答えは例え自分のところ（Google）のことに関する質問でも答えはあてにならないと私は思っているので、あくまで参考程度で聞きました。projectIdに関してはドメインの一部になってるので隠しても、しょうがないじゃんと考えています。apiKeyに関してもネットで調べた感じでは大丈夫そうです。公式のFirebase の API キーの使用と管理について学ぶにもいろいろ書いてありますが、使っていかないと理解できない感じです。この辺のセキュリティに関してはケースバイケースなので十分注意して自己責任でやってください。// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: ""**********"",
+  authDomain: ""******"",
+  projectId: ""*****"",
+  storageBucket: ""*****"",
+  messagingSenderId: ""*****"",
+  appId: ""****""
+};読み書きルールの設定データベースへの読み書き許可のコントロールが簡単にできるようです。Firebase Authenticationと組み合わせて実験したほうがいいですが今回は単純に読み書きできなくすることだけ試します。データをセキュリティで保護するを実験してみる。以下のようにするとデータベースで読み書きできなくなります。最初に書いてある以下はデータベースを作成するときテストモードを選んだので１か月後7/3までは誰でも読み書きできるという設定です。
+allow read, write: if request.time < timestamp.date(2023, 7, 3);もとに戻して公開をクリックすると誰でも読み書きできるようになります。目次へHostingFirebase Hosting を使ってみるにしたがってHosting（デプロイ）します。これをすると一般にアプリが公開されます。いろいろ心配な方は、ローカルだけでやって、ここはやらないほうがいいかもしれません。Firebase CLI はインストール済です。
+プロジェクトを初期化する
+firebase init hosting
+please select an options:で
+use an existing projectを選択してデプロイするプロジェクトを選択
+what do you want to use as your public directory?にはビルドしてできたファイルがあるディレクトリ、vue（Vuetify）の場合distと入力してEnter
+? Configure as a single-page app (rewrite all urls to /index.html)? y/Nはy(urlにアクセスしたらindex.htmlを読みに行くようになる）
+? Set up automatic builds and deploys with GitHub? (y/N)N
+? File dist/index.html already exists. Overwrite? No
+（ここをyesにするとデプロイ後のurlにアクセスしたときWelcome Firebase Hosting Setup Completeと表示される。この場合もう一度ビルドしなおせばいい）
+ビルドする
+yarn build
+そうするとdistディレクトリにデプロイするファイル一式が出来上がる。
+サイトにデプロイする
+firebase deploy --only hosting
+Hosting URL: （私の場合）https://vue-chat-db50b.web.appとでるので、そこにいけば表示されます。あとがき料金等の情報に変化があったら更新します。認証機能を試した記事は下にあります。イチゲをOFUSEで応援する(御質問でもOKです）Vプリカでのお支払いがおすすめです。MENTAやってます（ichige）目次へ【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。前回の続きで認証機能を追加します。firebaseの認証機能は、アプリにログイン機能を簡単に追加できるサービスです。メールアドレスとパスワードや、GoogleやFacebookなどのSNSアカウントを使ってユーザーを認証できます。１番単純な...kikuichige.com2023.06.10Vueプログラミング広告シェアするTwitterLINEコピー イチゲ　ブログイチゲ　ブログ 関連記事Django Djangoで時間のかかる処理を作るときのタイムアウト回避方法 Djangoで処理に時間がかかると何かしらのエラーが発生する。原因はリクエストに対するレスポンスに時間がかかっているからです。エラーになる時間はサーバーによって決まってます。処理に時間のかかるアプリの例だとスクレーピングアプリがあります。ス...Python 【初心者向け】PythonでWindowsの操作を自動化!マウス操作を自動化しコピペして表(csvファイル）に保存する方法【PyAutoGui】 Pyautoguiでyahooピンポイント天気のサイトを立ち上げ情報をコピペして表に保存する方法です。Pyautoguiを理解するためのもので実用的ではありません。Windows、JupiterNotebookにて動作を想定しています。この... コメントコメントを書き込むコメントをどうぞ コメントをキャンセルメールアドレスが公開されることはありません。 * が付いている欄は必須項目ですコメント ※ 名前 ※ メール ※ サイト  次回のコメントで使用するためブラウザーに自分の名前、メールアドレス、サイトを保存する。 ΔホームプログラミングVue広告イチゲブログ イチゲイチゲブログ、プログラム、節約術など情報発信していきます。 20/9月からブログ開始/お金を掛けないでWordPressブログ運営を独学でやってます。毎月成績（前月比）更新します。5月実績6617→6962PV 収益アドセンス1299→1042円 ASP319→2708円 「おいしい話には簡単にのらない」「情報に振り回されない」がモットー 最近は独学プログラミングブログになってます。お仕事のご依頼はLancers経由で。イチゲをフォローするイチゲブログの成績 誰もアクセスしていないとサーバーが寝てしまうので起きて表示するまで数分かかる場合があります。イチゲブログのアクセス集計イチゲブログのGoogle Search Console検索データ分析自作ブログ内検索Pythonで作った自作ブログ内検索ツール（立ち上がりに数分かかります。クラッシュしていることもあります。）イチゲブログ内検索カテゴリー100円ショップ5AI6アフィリエイト初心者37WordPressブログ入門（アフィリエイト）2ブログに役立つ無料ツール＆テクニック23独学アフィリエイト収益化への道、お名前ドットコム12お得・節約6ハードロック7メロディアスハードロック7パソコン17ソフト12ハード5プログラミング59Python42Django25Streamlit3Vue6健康2副業3Lancers2家電23スマフォ5テレビ2冷蔵庫2掃除機1洗濯機10映画5時事ネタ3未分類1株2葬儀3観光1最近の投稿【初心者向け】【画像投稿（Storage）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月14日【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月10日【初心者向け】【FirestoreとHosting編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月8日タイトルを入れるだけでAIが動画を作ってくれるVrewを試してみた。2023年5月29日広告イチゲ　ブログHOMEプロフィールTwitterプライバシーポリシーお問い合わせ© 2020 イチゲ　ブログ.メニュー□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！ホーム検索トップサイドバータイトルとURLをコピーしました"
+164,https://kikuichige.com/20075/,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。 | イチゲ　ブログイチゲ　ブログ□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023.06.142023.06.10 この記事は約36分で読めます。広告前回の続きで認証機能を追加します。firebaseの認証機能は、アプリにログイン機能を簡単に追加できるサービスです。メールアドレスとパスワードや、GoogleやFacebookなどのSNSアカウントを使ってユーザーを認証できます。１番単純なメールアドレスとパスワードでのログインを実装します。認証を通ったユーザーはデータベースにアクセスできます。また、そのユーザーが現在ログインしているか判断できる関数が用意されているので、それを使って表示を切り替えることができます。メールアドレスは実在しなくても大丈夫なので、まずはこれで色々実験してから本格的な認証を使っていけばいいと思います。ここで紹介する方法はセキュリティ対策は考慮していません。firebaseの認証機能の理解が目的なので別途セキュリティ対策は調べてください。公式のFirebase の API キーの使用と管理について学ぶも参考になります。Firestore+Vuetifyで作った掲示板（認証機能付き）メールアドレス、パスワードを登録した人だけが、読み書きできる掲示板です。人が書いたものも削除できます。メールアドレスはabc@def.jpなどメールアドレスの形をしていれば、実際に存在してなくても登録できます。適当なメールアドレスで登録して読み書き削除してログアウト。登録したメールアドレス、パスワードで再ログインして動作確認してみてください。絶対に本物のメールアドレスは使用しないでください。（メールアドレスが漏洩しても保証できません。）目次Vuetify3のコンポーネント追加認証機能追加認証機能関連コードfirebasebase設定コードメールリンク認証あとがき広告Vuetify3のコンポーネント追加メールアドレス、パスワードを入力するところはVuetify3公式のpassword inputを改造しました。また注意事項をダイアログで表示するようにDialogsを使いました。こちらはボタンを押すとダイアログが表示されますが、表示/非表示は以下の”dialog”がtrueで表示、falseで非表示なのでボタン削除して直接この”dialog”に値を入れてコントロールするようにしました。<v-dialogv-model=”dialog”そのほか前回のはVuetify2で作ったものだったのでワーニングが出てました。そこを修正しました。認証機能追加認証機能関連コード前回のアプリがローカルで動く状態（Hostingはやらなくてもいい）まで作っておきます。ウェブサイトで Firebase Authentication を使ってみるを見ながらやっていきます。以下赤い部分を追加します。authDomain:はプロジェクトの概要→プロジェクトの設定で下のほうにあります。ほかに３つ存在するのですが、storageBucket,messagingSenderId,appIdこれはなくても動きました。また、ここに書いた値はユーザーから検証ツールで見えてしまうので、あまり余分なことは書かないようにしました。authDomeinは、Hostingしたらドメインの一部になってます。この辺は自己責任でお願いいたします。import { getAuth } from ""firebase/auth"";
+略
+      const firebaseConfig = {
+          apiKey: ""***"",
+          projectId: ""***"",
+          authDomain: ""***"",
+      };
+略
+// Initialize Firebase Authentication and get a reference to the service
+const auth = getAuth(app);firebaseに用意されている以下の4つの関数（スタートガイドに出ている関数）を以下の場面で使用します。登録ボタンを押したら呼ぶ　→　createUserWithEmailAndPassword（新しいユーザーを登録する）
+ログインボタンを押したら呼ぶ　→　signInWithEmailAndPassword（既存のユーザーをログインさせる）
+最初に呼び出しログイン状態を判定する→onAuthStateChanged（認証状態オブザーバーを設定してユーザーデータを取得する）Firebase でユーザーを管理するは今回、使用しませんでした。JavaScript でパスワード ベースのアカウントを使用して Firebase 認証を行うにあるsignOutを使います。ログアウトを押したら呼ぶ→signOut（ユーザーのログアウトを行う）
+完成したコードは下に貼っておきます。firebasebase設定左のAuthentication→始める→メール / パスワード→sign-in-methodsタブ→メール / パスワードを有効にして保存またCloudFirestoreのルールを以下のようにログインしたユーザーにしかデータベースが読み書きできないように変更します。データをセキュリティで保護するを参照してください。allow read, write: if request.auth != null;下の画面は誰も読み書きできない設定です。これで動かすとユーザー認証付きの掲示板が動作します。登録したユーザーは、この画面で確認できますし削除もできます。プログラムを実行
+yarn devコードデフォルトでできるHelloWorld.vueコンポーネントを置き換えるだけにしてます。src/App.vueを修正<template>
+  <v-app>
+    <v-main>
+      <!-- <HelloWorld /> -->
+      <FrontEnd/>
+    </v-main>
+  </v-app>
+</template>
+
+<script setup>
+  // import HelloWorld from '@/components/HelloWorld.vue'
+  import FrontEnd from '@/components/FrontEnd.vue'
+</script>src/components/FrontEnd.vueを新規追加apiKey: と projectId:とauthDomain:は”それぞれ人によって違う“,ので変更してください。<template>
+    <v-app id=""inspire""> 
+      <v-app-bar
+        class=""mt-4""
+        max-height=""50""
+        color=""deep-purple""
+        dark
+        absolute
+      >
+        <v-app-bar-nav-icon @click=""drawer = true""></v-app-bar-nav-icon>
+          <v-toolbar-title>Firestore+Vuetifyで作った掲示板（認証機能付き）</v-toolbar-title>
+      </v-app-bar>
+  
+      <v-navigation-drawer
+        v-model=""drawer""
+        absolute
+        temporary
+      >       
+        <v-list >
+          <v-list-item
+            v-for=""(item, i) in items""
+            :key=""i""
+            :value=""item""
+            color=""primary""
+          >
+            <template v-slot:prepend>
+              <v-icon :icon=""item.icon""></v-icon>
+            </template>
+            <v-list-item-title><a :href=""item.url"" target=""_blank"">{{item.text}}</a></v-list-item-title>
+          </v-list-item>
+        </v-list>
+      </v-navigation-drawer>
+
+      <v-main class=""grey lighten-2"">
+        <v-container>
+          <div v-if=""logined"" style=""text-align:center"">
+            <h3 >ログインUserのemail：{{this.loginUser}}</h3>
+          </div>
+          <v-row>
+            <v-col class=""mt-2"" cols=""12"">
+                <v-sheet v-if=""!logined"" height=""180"" color=""blue-grey-lighten-4"" class=""mt-2 mx-auto"" max-width=""400"">
+                    <v-text-field v-if=""!logined""
+                        v-model=""email""
+                        persistent-hint                        
+                        :type=""show2 ? 'text' : 'email例abc@def.jp'""
+                        name=""input-10-2""
+                        label=""E-mail""
+                        hint=""E-mailアドレスを入力してください。abc@def.jpとpasswordで誰でもログインできます。""
+                        class=""input-group--focused""
+                        @click:append=""show2 = !show2""
+                    ></v-text-field>
+                    <v-text-field v-if=""!logined""
+                        v-model=""password""
+                        persistent-hint                        
+                        :append-icon=""show1 ? 'mdi-eye' : 'mdi-eye-off'""
+                        :rules=""[rules.required, rules.min]""
+                        :type=""show1 ? 'text' : 'password'""
+                        name=""input-10-1""
+                        label=""password""
+                        hint=""8文字以上入力してください。abc@def.jpとpasswordで誰でもログインできます。""
+                        counter
+                        @click:append=""show1 = !show1""
+                    ></v-text-field>
+                </v-sheet>
+                <div class=""text-center"">
+                    <v-btn v-if=""!logined"" color=""success"" dark v-on:click=""createAuth"" class=""ma-5"">登録</v-btn>
+                    <v-btn v-if=""!logined"" color=""success"" dark v-on:click=""signinAuth"">ログイン</v-btn>
+                    <v-btn v-if=""logined"" color=""success"" dark v-on:click=""signoutAuth"" class=""ma-5"">ログアウト</v-btn>
+                </div>
+            </v-col>
+            <v-col class=""mt-2"" cols=""12"">
+                <div v-if=""logined"">
+                    <v-sheet height=""230"" color=""orange lighten-2"" class=""mt-2 mx-auto"" max-width=""400"">
+                        <v-text-field
+                            v-model=""new_article_heading""
+                            label=""名前を入力してください""
+                            filled>
+                        </v-text-field>
+                        <v-text-field
+                            v-model=""new_article_body""
+                            label=""メッセージを入力してください""
+                            filled>
+                        </v-text-field>
+                        <v-btn color=""success"" dark v-on:click=""createNewUser"" class=""ma-5"">投稿</v-btn>
+                        
+                    </v-sheet>
+                </div>
+            </v-col>
+  
+            <template v-if=""logined"" v-for=""(article, index) in articles"" :key=""index"">
+              <v-col
+                class=""mt-2""
+                cols=""12""
+              >
+                <v-card
+                    class=""mt-2 mx-auto""
+                    max-width=""400""
+                    color=""lime lighten-5""
+                >
+                    <v-card-text class=""text--primary"">
+                      <div><br>ID: {{ article.article_id}}<br>投稿日時: {{ article.pub_date}}<br>名前: {{ article.article_heading}}<br>{{ article.article_body}}</div>
+                    </v-card-text>
+                    <v-card-actions>
+                        <v-btn color=""success"" dark v-on:click=""DeletedArc(article.article_id)"">削除</v-btn>
+                    </v-card-actions>
+                </v-card>
+              </v-col>
+            </template>
+          </v-row>
+        </v-container>
+      </v-main>
+      <!-- 初期メッセージダイアログ -->
+      <v-container>
+        <v-dialog v-model=""dialog"" width=""auto"">
+            <v-card>
+              <v-card-text>
+                必ず架空のメールアドレスとパスワードを使ってください。例、email:abc@def.jp
+                password:password　実際のメールアドレスを入力した場合、メールアドレス漏洩の保証はしません！
+              </v-card-text>
+              <v-card-actions>
+                <v-btn color=""primary"" block @click=""dialog = false""
+                  >閉じる</v-btn
+                >
+              </v-card-actions>
+            </v-card>
+          </v-dialog>
+      </v-container>
+      <!-- フッター -->
+      <v-footer padless>
+          <v-col
+            class=""text-center""
+            cols=""12""
+          >
+            <p>Copyright (c) 2023 イチゲブログ</p><v-btn href=""https://opensource.org/licenses/mit-license.php"">Released under the MIT license</v-btn>
+          </v-col>
+      </v-footer>
+      <!-- フッターend -->
+    </v-app>
+  </template>
+    
+  <script>
+  // 「Cloud Firestore を初期化する」コピーしたものbegin
+    import { initializeApp } from ""firebase/app"";
+    import { getFirestore } from ""firebase/firestore"";
+    import { getAuth } from ""firebase/auth"";
+      const firebaseConfig = {
+          apiKey: ""それぞれ人によって違う"",
+          projectId: ""それぞれ人によって違う"",
+          authDomain: ""それぞれ人によって違う"",
+      };
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+      // Initialize Cloud Firestore and get a reference to the service
+      const db = getFirestore(app);
+      // Initialize Firebase Authentication and get a reference to the service
+      const auth = getAuth(app);
+  //「 Cloud Firestore を初期化する」をコピーしたものend
+  // 使用する関数（firebaseが用意している）をここに追加する
+    import { collection, getDocs,addDoc,doc, deleteDoc} from ""firebase/firestore""
+    import { createUserWithEmailAndPassword ,signInWithEmailAndPassword ,signOut,onAuthStateChanged} from ""firebase/auth"";
+
+    export default {
+        data() { 
+            return{
+                loginUser:'',
+                dialog: false,
+                drawer: null,
+                articles: [],
+                new_article_heading:'',
+                new_article_body:'',
+                del_article_id:'',
+                logined:false,
+                show1: false,
+                show2: true,
+                password: 'password',
+                email:'abc@def.jp',
+                rules: {
+                required: value => !!value || 'パスワードを入力してください。',
+                min: v => v.length >= 8 || '8文字以上入力してください',
+                emailMatch: () => (`メールアドレスとpasswordご確認ください。`),
+                },
+                items: [
+                  { url:'https://kikuichige.com',text: 'イチゲブログ', icon: 'mdi-home' },
+                  { url:'https://vuetifyjs.com/ja/',text: 'Vuetify', icon: 'mdi-flag' },
+                ],
+            };
+        },
+        async created(){
+            await onAuthStateChanged(auth, (user) => {
+            if (user) {
+                // User is signed in, see docs for a list of available properties
+                const uid = user.uid;
+                console.log('ユーザーは',uid);
+                this.loginUser=user.email;
+                console.log(""メールアドレスは"",this.loginUser);
+                this.logined=true;
+                this.dialog=false;
+                this.getArticles();
+            } else {
+                // User is signed out
+                this.dialog=true;
+            }
+            });
+        },
+        methods: {
+          // firestoreからデータ取得
+            async getArticles() {
+              this.articles=[];
+              const querySnapshot = await getDocs(collection(db, ""users""));
+              querySnapshot.forEach((doc) => {
+                let article_buf=doc.data();
+                article_buf[""article_id""]=doc.id
+                console.log(""article_buf => "", article_buf);
+                this.articles.push(article_buf)
+              });
+            // 日付順にソート
+              this.articles.sort((a, b) => new Date(a.pub_date) - new Date(b.pub_date)).reverse();
+            },
+            // firestoreにデータ書き込み
+            async createNewUser(){
+              var date = new Date();
+              try {
+                const docRef = await addDoc(collection(db, ""users""), {
+                  ""article_heading"": this.new_article_heading,
+                  ""article_body"": this.new_article_body,
+                  ""pub_date"":date.toLocaleString(),
+                });
+                console.log(""Document written with ID: "", docRef.id);
+                this.new_article_heading='';
+                this.new_article_body='';
+              } catch (e) {
+                console.error(""Error adding document: "", e);
+              }
+              this.getArticles();
+            },
+            // firestoreのデータ1件削除
+            async DeletedArc(delId){
+              console.log(""delid=>"",delId);
+              await deleteDoc(doc(db, ""users"", delId));
+              this.getArticles();
+            },
+            async createAuth(){
+                console.log('password=',this.password)
+                console.log('email=',this.email)
+                try {
+                    await createUserWithEmailAndPassword(auth, this.email, this.password)
+                    .then((userCredential) => {
+                        // Signed in
+                        const user = userCredential.user;
+                        console.log('userは',user);
+                    })
+                    .catch((error) => {
+                        const errorCode = error.code;
+                        const errorMessage = error.message;
+                        console.log('errorは',error);
+                        alert('メールアドレスとパスワードをご確認ください。');
+                    });
+                }catch (error) {
+                    alert('メールアドレスとパスワードをご確認ください。');
+                    console.log('errorは',error);
+                }
+                this.password='';
+                this.email='';
+            },
+            async signinAuth(){
+                try {
+                    await signInWithEmailAndPassword(auth, this.email, this.password)
+                    .then((userCredential) => {
+                        // Signed in
+                        const user = userCredential.user;
+                        console.log('Signed in');
+                        this.logined=true;
+                        this.dialog=false;
+                    })
+                    .catch((error) => {
+                        const errorCode = error.code;
+                        const errorMessage = error.message;
+                        alert('メールアドレスとパスワードをご確認ください。');
+                    });
+                }catch (error) {
+                        alert('メールアドレスとパスワードをご確認ください。');
+                        console.log('errorは',error);
+                }
+                this.password='';
+                this.email='';
+            },
+            async signoutAuth(){
+                await signOut(auth).then(() => {
+                    console.log('Sign-out successful.');
+                    }).catch((error) => {
+                    // An error happened.
+                });
+                this.logined=false;
+                this.dialog=true;
+                this.loginUser='';
+            }
+      }
+    }
+    </script>メールリンク認証メール送信に関する制限事項にあるメールリンク ログインメール 5 件/日（Sparkプラン）なので公開はしませんがローカルで動かせたので紹介します。メールアドレス/パスワードでログインしたユーザーでメールリンクでログインすると、この方法でしかログインできなくなりました。作ったものはメールアドレス/パスワードで登録後、ログアウトして「メールでログインボタン」をクリックするとメールが送られます。メールにあるリンクをクリックすると新しいタブで開きます。「メールログイン完了」ボタンを押すとログイン完了します。JavaScript でメールリンクを使用して Firebase 認証を行うを参考に作りました。Firebase コンソールで [Authentication] セクションを開く→[Sign-in method] タブで [メールリンク（パスワードなしでログイン）] を有効→[保存]ActionCodeSettingsの開設
+url:は届いたメール内のリンクをユーザーがクリックしたあとに表示するurlになります。今回は以下のようにurlパラメータ?sendmail=1'を追加してメールから来た事を判別して処理で利用しました。
+url: 'http://localhost:3000/?sendmail=1',
+このurlパラメータは以下のようにすると読み込めます。
+this.params = new URLSearchParams(location.search);
+this.sendmail = this.params.get('sendmail');
+また、sendmailを読み込んだらURLを以下の処理でページ遷移せずに消す処理も入れました。
+これをやらないといつもsendmail=1を読み込んでしまう。
+const url = new URL(window.location.href);
+url.search = '';
+window.history.replaceState(null, null, url);
+
+handleCodeInApp: true に設定（意味は分かりません）
+iOS:、android:、dynamicLinkDomain:こちらも意味が分からないので使いませんでした。sendSignInLinkToEmailでメールが送信できます。isSignInWithEmailLink, signInWithEmailLinkでログインを完了させます。修正部だけ載せます。初期メッセージダイアログは今回表示しないようにしました。（複雑になるため）src/components/FrontEnd.vue（赤字、修正追加部分）略
+          <v-col class=""mt-2"" cols=""12"">
+            <div v-if=""this.sendok"">
+              <h2 class=""text-center"">メールを送信しまいた。メールを確認してください。</h2>
+            </div>
+            <div v-else>
+              <v-sheet v-if=""!logined && !(this.sendmail === '1')"" height=""180"" color=""blue-grey-lighten-4"" class=""mt-2 mx-auto"" max-width=""400"">
+略
+              </v-sheet>
+            </div>
+              <div class=""text-center"">
+                <div v-if=""this.sendmail === '1'"">
+                  <v-btn color=""success"" dark v-on:click=""confirmMail"" class=""ma-5"">メールログイン完了</v-btn>
+                </div>
+                <div v-else>
+                  <v-btn v-if=""!logined"" color=""success"" dark v-on:click=""createAuth"" class=""ma-5"">登録</v-btn>
+                  <v-btn v-if=""!logined"" color=""success"" dark v-on:click=""signinAuth"" class=""ma-5"">ログイン</v-btn>
+                  <v-btn v-if=""!logined"" color=""success"" dark v-on:click=""mailAuth"" class=""ma-5"">メールでログイン</v-btn>
+                  <v-btn v-if=""logined"" color=""success"" dark v-on:click=""signoutAuth"" class=""ma-5"">ログアウト</v-btn>
+                </div> 
+              </div>
+          </v-col>
+略
+<!-- 初期メッセージダイアログ -->は削除
+略
+  import { createUserWithEmailAndPassword ,signInWithEmailAndPassword ,signOut,onAuthStateChanged} from ""firebase/auth"";
+  import { sendSignInLinkToEmail,isSignInWithEmailLink, signInWithEmailLink } from ""firebase/auth"";
+  export default {
+      data() { 
+          return{
+            sendok:false,
+            params:'',
+            sendmail:'',
+略
+          });
+          try{
+            this.params = new URLSearchParams(location.search);
+            this.sendmail = this.params.get('sendmail');
+            console.log('paramsは',this.params); 
+            console.log('sendmailは',this.sendmail);
+          } catch (e) {
+              console.error(""Error adding document: "", e);
+            };
+      },
+      methods: {
+略
+          },
+          async mailAuth(){
+              try {
+                  const actionCodeSettings = {
+                        url: 'http://localhost:3000/?sendmail=1',
+                        // This must be true.
+                        handleCodeInApp: true,
+                        // iOS: {
+                        //   bundleId: 'com.example.ios'
+                        // },
+                        // android: {
+                        //   packageName: 'com.example.android',
+                        //   installApp: true,
+                        //   minimumVersion: '12'
+                        // },
+                        // dynamicLinkDomain: 'example.page.link'
+                      };
+                      await sendSignInLinkToEmail(auth, this.email, actionCodeSettings)
+                        .then(() => {
+                          window.localStorage.setItem('emailForSignIn', this.email);
+                          console.log('送信成功');
+                          this.sendok=true;
+                        })
+                        .catch((error) => {
+                          console.log('send時のerrorは',error);
+                          const errorCode = error.code;
+                          const errorMessage = error.message;
+                        });
+              }catch (error) {
+                  alert('メールアドレスとパスワードをご確認ください。2');
+                  console.log('errorは',error);
+              }
+              this.password='';
+              this.email='';
+              this.sendmail='';
+          },
+          async signinAuth(){
+略
+              this.loginUser='';
+          },
+          async confirmMail(){
+            if (await isSignInWithEmailLink(auth, window.location.href)) {
+  let email = window.localStorage.getItem('emailForSignIn');
+  if (!email) {
+    email = window.prompt('Please provide your email for confirmation');
+  }
+  await signInWithEmailLink(auth, email, window.location.href)
+    .then((result) => {
+      window.localStorage.removeItem('emailForSignIn');
+      console.log('メール確認のresult',result);
+    })
+    .catch((error) => {
+      console.log('メール確認のerror',error);
+    });
+    this.sendmail='';
+    this.sendok=false;
+    const url = new URL(window.location.href);
+    console.log('urlは',url);
+    url.search = '';
+    window.history.replaceState(null, null, url);
+}
+          }
+    }
+  }
+  </script>あとがき認証機能を簡単に実装できるがセキュリティ対策は、これで安心せず、よく検討したほうがいいと思います。メールリンクについて実験していたらメール送信に関する制限事項にあるメールリンク ログインメール 5 件/日（Sparkプラン）に引っかかってなかなか実験できない。でも勝手にプランを上げられていないことは確認できた。イチゲをOFUSEで応援する(御質問でもOKです）Vプリカでのお支払いがおすすめです。MENTAやってます（ichige）Vueプログラミング広告シェアするTwitterLINEコピー イチゲ　ブログイチゲ　ブログ 関連記事Django 海外で人気のバンド、外人の初見リアクション検索アプリ(YoutubeApi利用）BabyMetal、Lovebites、BAND-MAID、Nemophila YoutubeApiを使いDjangoで外人の初見リアクション動画を検索できるWebアプリを作りました。上にあげた4つのグループはBabyMetal以外、日本での認知度も低い。BabyMetal以外はガールズバンドです。最近はASTERIS...Python 【初心者向け】Google Bardでプログラミングできるのか？「ずんだもんの声がするボタンをつくる」 Google Bardで日本語が使えるようになったので使ってみた。実践的なプログラムをBardに聞きながら作りました。BingやChatGptでも同じことができます。ボタンを押したらVoiceBoxのずんだもんの声が再生されるプログラムを作... コメントコメントを書き込むコメントをどうぞ コメントをキャンセルメールアドレスが公開されることはありません。 * が付いている欄は必須項目ですコメント ※ 名前 ※ メール ※ サイト  次回のコメントで使用するためブラウザーに自分の名前、メールアドレス、サイトを保存する。 ΔホームプログラミングVue広告イチゲブログ イチゲイチゲブログ、プログラム、節約術など情報発信していきます。 20/9月からブログ開始/お金を掛けないでWordPressブログ運営を独学でやってます。毎月成績（前月比）更新します。5月実績6617→6962PV 収益アドセンス1299→1042円 ASP319→2708円 「おいしい話には簡単にのらない」「情報に振り回されない」がモットー 最近は独学プログラミングブログになってます。お仕事のご依頼はLancers経由で。イチゲをフォローするイチゲブログの成績 誰もアクセスしていないとサーバーが寝てしまうので起きて表示するまで数分かかる場合があります。イチゲブログのアクセス集計イチゲブログのGoogle Search Console検索データ分析自作ブログ内検索Pythonで作った自作ブログ内検索ツール（立ち上がりに数分かかります。クラッシュしていることもあります。）イチゲブログ内検索カテゴリー100円ショップ5AI6アフィリエイト初心者37WordPressブログ入門（アフィリエイト）2ブログに役立つ無料ツール＆テクニック23独学アフィリエイト収益化への道、お名前ドットコム12お得・節約6ハードロック7メロディアスハードロック7パソコン17ソフト12ハード5プログラミング59Python42Django25Streamlit3Vue6健康2副業3Lancers2家電23スマフォ5テレビ2冷蔵庫2掃除機1洗濯機10映画5時事ネタ3未分類1株2葬儀3観光1最近の投稿【初心者向け】【画像投稿（Storage）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月14日【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月10日【初心者向け】【FirestoreとHosting編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月8日タイトルを入れるだけでAIが動画を作ってくれるVrewを試してみた。2023年5月29日広告イチゲ　ブログHOMEプロフィールTwitterプライバシーポリシーお問い合わせ© 2020 イチゲ　ブログ.メニュー□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！ホーム検索トップサイドバータイトルとURLをコピーしました"
+165,https://kikuichige.com/20190/,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【初心者向け】【画像投稿（Storage）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。 | イチゲ　ブログイチゲ　ブログ□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！【初心者向け】【画像投稿（Storage）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023.06.14 この記事は約12分で読めます。広告Storageを使って画像アップロード、表示、削除をしてみました。また、Storageに保存したファイルを直接外部から参照できるのか検証しました。完成品 Firestore+Vuetifyで作った掲示板（認証機能＋画像投稿付き）前回まで作ったものに追加していきます。以下の続きです。【初心者向け】【FirestoreとHosting編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。Vuetifyは、Vue.jsベースのユーザーインターフェースが簡単に作れます。Firebaseは、Googleが提供するモバイルおよびWebアプリケーションのためのプラットフォームです。今回その中のCloud Firestore（データベ...kikuichige.com2023.06.08【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。前回の続きで認証機能を追加します。firebaseの認証機能は、アプリにログイン機能を簡単に追加できるサービスです。メールアドレスとパスワードや、GoogleやFacebookなどのSNSアカウントを使ってユーザーを認証できます。１番単純な...kikuichige.com2023.06.10目次Template追加部分Storageにアップロード、表示、削除初期設定upload関数（アップロード）ダウンロード削除Storageのリンクを直接使ってはいけないのかurlの違いルールで何を制限しているのかあとがき広告Template追加部分ファイルの選択機能はVuetifyのv-file-inputだけで完成します。実際の操作は📎（クリップマーク）をクリックするとエクスプローラーが立ち上がりパソコンにあるファイルを選択して「開く」をクリックするとupload関数が起動されるので、そのイベントオブジェクトからfileを取り出しStorageに書き込みます。v-model=”image”のimageにもファイルの本体が入っているのですが取り出し方がわからなかったのでイベントオブジェクトを使いました。なのでimageは、ファイル名の表示/非表示の変数としか使っていません。表示ボタンをクリックするとv-imgで変数imageSrcに入っているurlの画像を表示させます。削除ボタンで今、表示したファイルをStorageから削除します。<template>に追加したのは以下<v-sheet height=""150"" color=""orange lighten-2"" class=""mt-2 mx-auto"" max-width=""400"">
+                    <v-file-input v-model=""image""　@change=""upload"" label=""← クリックしてファイルを選択"" ></v-file-input>
+                  
+                  <v-btn color=""success"" dark v-on:click=""downLoad"" class=""ma-5"">表示</v-btn>
+                  <v-btn color=""success"" dark v-on:click=""deleteImg"" class=""ma-5"">削除</v-btn>
+                </v-sheet>
+                <v-img v-if=""imageSrc"" v-bind:src=""imageSrc"" max-height=""200"" class=""mt-4""></v-img>
+             Storageにアップロード、表示、削除初期設定Firebaseのコンソールで左のStorageをクリック→始める→テストモード→完了でStorageが使えるようになります。ウェブで Cloud Storage を使ってみるの「バケット URL をアプリに追加する」がStorageを使うための初期設定です。前回までCloud Firestore（データベース）Hosting（アプリ公開）Authentication（認証）を使用するのにfirebaseConfigに何を追加すればいいか実験してきました。その結果apiKey:projectId:authDomain:があれば動きました。今回Cloud Storageを使うにはstorageBucket:が必要なので追加しました。値は、プロジェクトの概要→プロジェクトの設定で下のほうにあります。const firebaseConfig = {
+        apiKey: ""***"",
+        projectId: ""***"",
+        authDomain: ""***"",
+        storageBucket: ""***"",
+    };
+あとは以下2行の追加でStorageが使えるようになります。
+import { getStorage } from ""firebase/storage"";
+const storage = getStorage(app);
+
+今回使用するStorageの関数もimportします。
+  import { ref ,uploadBytes, getDownloadURL , deleteObject } from ""firebase/storage"";
+ 
+データに以下追加
+      data() { 
+          return{
+            imageSrc:null,
+            now_image:null,
+　　　　　　image:null,upload関数（アップロード）ウェブで Cloud Storage を使用してファイルをアップロードするを参考にやっていきます。使用するfirebaseの関数をimport
+import { getStorage , ref ,uploadBytes} from ""firebase/storage"";
+Blob または File からアップロードするの以下の2つだけでアップロードできます。
+// Create a root reference
+const storage = getStorage();
+
+// Create a reference to 'mountains.jpg'
+const mountainsRef = ref(storage, 'mountains.jpg');具体的な処理は 
+          async upload(e) {
+            console.log('eは',e);
+            console.log('e.target.files[0].nameは',e.target.files[0].name);
+            const file=e.target.files[0];
+            this.now_image=file.name;
+            // Create a reference to 'mountains.jpg'
+            const storageRef = ref(storage, 'images/'+file.name);
+            // 'file' comes from the Blob or File API
+            await uploadBytes(storageRef, file).then((snapshot) => {
+              console.log('Uploaded a blob or file!');
+            });
+          },解説：ファイルを開くをクリックしたら発生するイベントオブジェクトeを受け取り、そこからファイル本体を取得して変数fileへ。コンソールでe（event)を表示しているので、targetの下のfiles（配列）の０番目にファイルがあるのが確認できます。ファイル名（file.name）を抽出してthis.now_imageに代入。storageRefには保存先のパスが作られます。uploadBytes(storageRef, file)でstorageRefへファイルの実体をアップロードします。目次へダウンロードウェブで Cloud Storage を使用してファイルをダウンロードするの「URL 経由でデータをダウンロードする」を使います。サンプルに2つの方法が解説されています。２つ目の方法をVuetifyように改造します。以下サンプルをコメントアウトして解説を加えました。async downLoad(){
+            console.log('ダウンロードimageは',this.now_image)
+            await getDownloadURL(ref(storage, 'images/'+this.now_image))
+            .then((url) => {
+              // `url` is the download URL for 'images/stars.jpg'
+
+//①httpリクエストをurlに対して投げレスポンスをBlobに入れてるが、cordsの対策しないとエラーになる。
+              // This can be downloaded directly:
+              // const xhr = new XMLHttpRequest();
+              // xhr.responseType = 'blob';
+              // xhr.onload = (event) => {
+              //   const blob = xhr.response;
+              // };
+              // xhr.open('GET', url);
+              // xhr.send();
+
+//②imgタグのsrc属性にurlを代入している。今回、こちらをimgタグではなくVuetifyのv-imgタグで実装した。
+              // Or inserted into an <img> element
+              // const img = document.getElementById('myimg');
+              // img.setAttribute('src', url);
+              this.imageSrc=url;
+            })
+            .catch((error) => {
+              // Handle any errors
+            });
+          },解説：getDownloadURL(ref(storage, ‘images/’+this.now_image))によりストレージに保存されている対応するファイ名のurlが取得できます。v-imgタグでv-bind:src=”imageSrc”としているのでimageSrcにurlを代入すれば、そのurlの画像が表示されます。目次へ削除ウェブで Cloud Storage を使用してファイルを削除するに使い方が載っています。          async deleteImg(){
+            // Create a reference to the file to deleteref
+            const desertRef = ref(storage, 'images/'+this.now_image);
+            // Delete the file
+            await deleteObject(desertRef).then(() => {
+              // console.log('削除しました。',this.now_image);
+              // File deleted successfully
+            }).catch((error) => {
+              // Uh-oh, an error occurred!
+            });
+            this.now_image='';
+            this.imageSrc=null;
+            this.image=null;
+          }解説：ref(storage, ‘images/’+this.now_image)によりストレージに保存されている対応するファイ名のurlが取得できます。それをdeleteObjectに渡すことで削除できます。目次へStorageのリンクを直接使ってはいけないのかurlの違いプログラムで読み出して作った画像ファイルのリンクとStorageにある画像ファイルのリンクで違いがあるか確認してみました。プログラムで読み出して作った画像ファイルのリンク
+https://firebasestorage.googleapis.com/v0/b/vue-auth-40465.appspot.com/o/images%2Fkomakusa.jpg?alt=media&token=37d5ad69-de82-41ff-af35-c4dc4eee86ddStorageにある画像ファイルのリンク
+https://firebasestorage.googleapis.com/v0/b/vue-auth-40465.appspot.com/o/images%2Fkomakusa.jpg?alt=media&token=37d5ad69-de82-41ff-af35-c4dc4eee86ddfirebasestorage.googleapis.com&_gl=1*1q5g777*_ga*MTk5NDUzMDc2Ny4AbcDGNzc0*_ga_CW55HF8NVT*MTY4NjY0NTA1NC43Ny4xLjE689Y2NDU51DYuMC4wLjA.Storageにあるファイルのリンクは赤色のurlパラメータが余分についていてます。なので直接このurlを使う場合、最後のurlパラメータ（&以降は削除したほうがいいかも）目次へルールで何を制限しているのかStorageに対する読み書きの許可をテストモードのデフォルトからreadのみ不可にしました。参照Firebase Cloud Storage セキュリティ ルールで条件を使用する（Firestoreの説明のほうがわかりやすい。→データをセキュリティで保護する）rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /{allPaths=**} {
+      //allow read, write: if request.time < timestamp.date(2023, 7, 11);
+      allow write: if request.time < timestamp.date(2023, 7, 11);
+      allow read: if false;
+    }
+  }
+}今回、作ったプログラムで確認するとアップロード（write）はできます。しかし表示を押しても画像は表示されません。開発者ツールのネットワークタブでみると以下へアクセスしています。
+https://firebasestorage.googleapis.com/v0/b/vue-auth-40465.appspot.com/o/images%2Fusuyuki.jpg
+これのレスポンスは
+  ""error"": {
+    ""code"": 403,
+    ""message"": ""Permission denied.""
+  }
+}
+
+getDownloadURL(ref(storage, 'images/'+this.now_image))が返すurlが上のurlでStorageにアクセスできないエラーを返すurlになっています。
+しかしコンソール→Storage→該当ファイルをクリックして名前のリンクをクリックすると画像が見れます。
+つまり、このルールはプログラムで動かすときだけ上記のようなエラーが発生するurlに誘導するだけでStorageの読み出しを制御しているわけではないということです。FirebaseのStorageだけを使おうと思ったので、こういうことを調べました。分かったことは。ルールでは読み書き制限できない。後ろのurlパラメータは消したほうがいいかもということです。あとがきプログラムからStorageを操作するのは簡単にできることがわかりました。イチゲをOFUSEで応援する(御質問でもOKです）Vプリカでのお支払いがおすすめです。MENTAやってます（ichige）目次へVueプログラミング広告シェアするTwitterLINEコピー イチゲ　ブログイチゲ　ブログ 関連記事Django HTML、CSS、JavaScriptで作ったホームページをDjango化する方法 Djangoのテンプレートに既存のホームページを使うやり方です。Djangoを使用することでデータベースが使用でき動的にデータを保存しておくことができます。Djangoを利用してアクセスカウンタとホームページ評価アンケート機能を追加しました...Django Djangoで時間のかかる処理を作るときのタイムアウト回避方法 Djangoで処理に時間がかかると何かしらのエラーが発生する。原因はリクエストに対するレスポンスに時間がかかっているからです。エラーになる時間はサーバーによって決まってます。処理に時間のかかるアプリの例だとスクレーピングアプリがあります。ス... コメントコメントを書き込むコメントをどうぞ コメントをキャンセルメールアドレスが公開されることはありません。 * が付いている欄は必須項目ですコメント ※ 名前 ※ メール ※ サイト  次回のコメントで使用するためブラウザーに自分の名前、メールアドレス、サイトを保存する。 ΔホームプログラミングVue広告イチゲブログ イチゲイチゲブログ、プログラム、節約術など情報発信していきます。 20/9月からブログ開始/お金を掛けないでWordPressブログ運営を独学でやってます。毎月成績（前月比）更新します。5月実績6617→6962PV 収益アドセンス1299→1042円 ASP319→2708円 「おいしい話には簡単にのらない」「情報に振り回されない」がモットー 最近は独学プログラミングブログになってます。お仕事のご依頼はLancers経由で。イチゲをフォローするイチゲブログの成績 誰もアクセスしていないとサーバーが寝てしまうので起きて表示するまで数分かかる場合があります。イチゲブログのアクセス集計イチゲブログのGoogle Search Console検索データ分析自作ブログ内検索Pythonで作った自作ブログ内検索ツール（立ち上がりに数分かかります。クラッシュしていることもあります。）イチゲブログ内検索カテゴリー100円ショップ5AI6アフィリエイト初心者37WordPressブログ入門（アフィリエイト）2ブログに役立つ無料ツール＆テクニック23独学アフィリエイト収益化への道、お名前ドットコム12お得・節約6ハードロック7メロディアスハードロック7パソコン17ソフト12ハード5プログラミング59Python42Django25Streamlit3Vue6健康2副業3Lancers2家電23スマフォ5テレビ2冷蔵庫2掃除機1洗濯機10映画5時事ネタ3未分類1株2葬儀3観光1最近の投稿【初心者向け】【画像投稿（Storage）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月14日【初心者向け】【認証（Authentication）編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月10日【初心者向け】【FirestoreとHosting編】Vuetify3（Vue.js3）とFirebaseを使って掲示板アプリをつくってみました。2023年6月8日タイトルを入れるだけでAIが動画を作ってくれるVrewを試してみた。2023年5月29日広告イチゲ　ブログHOMEプロフィールTwitterプライバシーポリシーお問い合わせ© 2020 イチゲ　ブログ.メニュー□　HOME□　Python□　プログラミング□　ハードロック□ 　100均□　イチゲをOFUSEで応援！ホーム検索トップサイドバータイトルとURLをコピーしました"
